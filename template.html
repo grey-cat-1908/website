@@ -5,13 +5,37 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="/custom.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
+	<script src="/javascript/navbar.js" async=""></script>
 	<title>Arbuz?</title>
 </head>
 
 <body>
-	<main>
-		{{%CONTENT%}}
-	</main>
+	<div class="layout">
+		<main>
+			<nav class="">
+				<div class="container">
+					<div class="nav-main">
+						<div class="nav-avatar">
+							<div class="nav-name">Marakarka</div>
+						</div>
+						<button onclick="getNavbar()" class="nav-toggle-button"><i class="fa-solid fa-bars"></i></button>
+
+					</div>
+					<div class="nav-toggle" id="nav-toggle">
+						<ul class="nav-list">
+							<li class="nav-item"><a href="" class="nav-button">Home</a></li>
+							<li class="nav-item"><a href="" class="nav-button">Projects</a></li>
+							<li class="nav-item"><a href="" class="nav-button">Blog</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			<div class="container mc">
+				{{%CONTENT%}}
+			</div>
+		</main>
+	</div>
 </body>
 
 </html>
