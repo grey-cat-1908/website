@@ -1,4 +1,4 @@
-<h2>My Projects</h2>
+## My Projects
 
 I have a lot of projects, but there list of most popular (were/are/will be) and which are being maintained.
 
@@ -10,7 +10,7 @@ I have a lot of projects, but there list of most popular (were/are/will be) and 
 
 * Also I started fun-only project [TODAY](https://today.arbuz.icu/) that shows some generated (how?) information about current day. 
 
-<h4>Archived</h4>
+### Archived
   
 * Discord Bot - [KerdokuBot](https://kerdoku.top/) (Rust, Python, JS).
   
