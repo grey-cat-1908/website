@@ -15,13 +15,6 @@ except:
 os.mkdir("build")
 
 
-for filename in os.listdir("static"):
-    if len(filename.split(".")) == 1:
-        shutil.copytree(f"{os.getcwd()}/static/{filename}", f"{os.getcwd()}/build/{filename}")
-    else:
-        shutil.copy(f"{os.getcwd()}/static/{filename}", f"{os.getcwd()}/build/{filename}")
-
-
 template_file = open('template.html', "r")
 template_text = template_file.read()
 template_file.close()
@@ -43,6 +36,12 @@ def go_through(directory):
             os.makedirs(f'build/{fier}{filename}')
             go_through(directory + "/" + filename)
         else:
+            for ofn in os.listdir("static"):
+                if len(ofn.split(".")) == 1:
+                    shutil.copytree(f"{os.getcwd()}/static/{ofn}", f"{os.getcwd()}/build/{fier}{ofn}")
+                else:
+                    shutil.copy(f"{os.getcwd()}/static/{ofn}", f"{os.getcwd()}/build/{fier}{ofn}")
+
             content = gen_file(f"{os.getcwd()}/{directory}/{filename}")
             loc = fier + filename.split(".")[0] + '.html'
 
