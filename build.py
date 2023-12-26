@@ -41,7 +41,7 @@ def go_through(directory):
 
             fier = content[content.find('/'):]
 
-            if len(fier) != 0: fier += ""/
+            if len(fier) != 0: fier += "/"
             
             loc = f"{fier}{filename}/index.html"
             os.makedirs(f'build/{fier}{filename}')
