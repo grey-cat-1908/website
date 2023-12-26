@@ -39,8 +39,7 @@ def go_through(directory):
         if len(filename.split(".")) == 1:
             content = gen_file(f"{os.getcwd()}/{directory}/{filename}/index.md")
 
-            fier = content[content.find('/'):]
-
+            _, _, fier = directory.partition('/')
             if len(fier) != 0: fier += "/"
             
             loc = f"{fier}{filename}/index.html"
