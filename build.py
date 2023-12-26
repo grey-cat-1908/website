@@ -36,23 +36,18 @@ def gen_file(directory):
 
 def go_through(directory):
     for filename in os.listdir(directory):
-        if len(filename.split(".")) == 1:
-            content = gen_file(f"{os.getcwd()}/{directory}/{filename}/index.md")
+        _, _, fier = directory.partition('/')
+        if len(fier) != 0: fier += "/"
 
-            _, _, fier = directory.partition('/')
-            if len(fier) != 0: fier += "/"
-            
-            loc = f"{fier}{filename}/index.html"
+        if len(filename.split(".")) == 1:
             os.makedirs(f'build/{fier}{filename}')
-            
             go_through(directory + "/" + filename)
         else:
-            # TODO: add support to ./././...
-            content = gen_file(f"{os.getcwd()}/content/{filename}")
-            loc = filename.split(".")[0] + '.html'
+            content = gen_file(f"{os.getcwd()}/{directory}/{filename}")
+            loc = fier + filename.split(".")[0] + '.html'
 
-        file = open(f"{os.getcwd()}/build/{loc}", "a")    
-        file.write(content)
-        file.close()
+            file = open(f"{os.getcwd()}/build/{loc}", "a")    
+            file.write(content)
+            file.close()
 
 go_through("content")
