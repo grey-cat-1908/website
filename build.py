@@ -34,16 +34,26 @@ def gen_file(directory):
 
     return template_text.replace("{{%CONTENT%}}", render(md_text))
 
+def go_through(directory):
+    for filename in os.listdir(directory):
+        if len(filename.split(".")) == 1:
+            content = gen_file(f"{os.getcwd()}/{directory}/{filename}/index.md")
 
-for filename in os.listdir("content"):
-    if len(filename.split(".")) == 1:
-        content = gen_file(f"{os.getcwd()}/content/{filename}/index.md")
-        loc = f"{filename}/index.html"
-        os.makedirs(f'build/{filename}')
-    else:
-        content = gen_file(f"{os.getcwd()}/content/{filename}")
-        loc = filename.split(".")[0] + '.html'
+            fier = content[content.find('/'):]
 
-    file = open(f"{os.getcwd()}/build/{loc}", "a")
-    file.write(content)
-    file.close()
+            if len(fier) != 0: fier += ""/
+            
+            loc = f"{fier}{filename}/index.html"
+            os.makedirs(f'build/{fier}{filename}')
+            
+            go_through(directory + "/" + filename)
+        else:
+            # TODO: add support to ./././...
+            content = gen_file(f"{os.getcwd()}/content/{filename}")
+            loc = filename.split(".")[0] + '.html'
+
+        file = open(f"{os.getcwd()}/build/{loc}", "a")    
+        file.write(content)
+        file.close()
+
+go_through("content")
