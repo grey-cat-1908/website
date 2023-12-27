@@ -1,6 +1,8 @@
+# TODAY project
+
 Not too long ago I decided to create a pretty useless project. It shows emoji and color of the day. All of this is calculated by my formulas using my own algorithms on client-side.
 
-Here are some formulas that I used: 
+Here are some formulas that I have used in TODAY project: 
 
 * `t` - timestamp - const - 00:00 of this day in UTC.
 
