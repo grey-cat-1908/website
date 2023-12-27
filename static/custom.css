@@ -123,6 +123,10 @@ nav .container {
     border-radius: 0.1rem;
 }
 
+.mc pre {
+    background-color: #0d0e13;
+}
+
 .mc table {
     display: block;
     width: 100%;
