@@ -22,4 +22,4 @@ If you speak Russian and you are interested in me, I can recommend my [Telegram 
 
 ## Ways to support me
    - [Boosty.to](https://boosty.to/greycat1908)
-   - TON: <code>EQCwcuavUwRamZ0pCPr37rBf4TlJXtKCdaXBNkptfZMRtz2R</code>
+   - TON: `EQCwcuavUwRamZ0pCPr37rBf4TlJXtKCdaXBNkptfZMRtz2R`
