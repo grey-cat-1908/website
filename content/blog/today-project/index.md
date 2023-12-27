@@ -79,6 +79,6 @@ The color is output in the RGB format.
 
 ---
 
-*p.s. I feel that the problem of finding the required permutation can be solved with a lower asymptotic complexity (`color.js`). If you have ideas, please write to me about them.*
+*p.s. I feel that the problem of finding the required permutation can be solved with a lower asymptotic complexity (`color.js`). If you have ideas, please let me know about them.*
 
 *p.s. [v2] I hate MathJax(((*
