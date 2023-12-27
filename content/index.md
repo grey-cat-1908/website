@@ -18,8 +18,3 @@ I consider **my main goal to make our world a much better, safer and easier plac
 You can contact me via [Telegram](https://t.me/Grey31) or [Email](mailto:mail@arbuz.icu).
 
 If you speak Russian and you are interested in me, I can recommend my [Telegram channel](https://t.me/marakarka). Otherwise, you can read my blog on this website.
-
-
-## Ways to support me
-   - [Boosty.to](https://boosty.to/greycat1908)
-   - TON: `EQCwcuavUwRamZ0pCPr37rBf4TlJXtKCdaXBNkptfZMRtz2R`
