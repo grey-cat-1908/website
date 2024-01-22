@@ -35,9 +35,9 @@ I visited the zoo and was amazed by the variety of animals. The zoo is quite exp
 
 ![Panda](https://cdn.arbuz.icu/img/china-tour/panda01.jpg)
 
-During my trip to Shanghai, I had several tasks to complete. Although I won't go into detail about them, I did learn a few new Chinese characters. Instead, I will share my opinions and facts about China.
+During my trip to Shanghai, I had several tasks to complete. Although I won't go into detail about them. Instead, I will share my opinions and facts about China.
 
-Specifically, I learned that 入口 means entrance, 出口 means exit, and 口 means mouth.   
+I did learn a few new Chinese characters. Specifically, I learned that 入口 means entrance, 出口 means exit, and 口 means mouth.   
 
 Additionally, I discovered that in China, many websites and online services are blocked. To access the content, you need to use VPN. Additionally, you can use Yandex.Translator and local Baidu maps. It is unclear why local women publish their photos in the restaurant's images section.
 
