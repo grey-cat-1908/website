@@ -41,7 +41,7 @@ Specifically, I learned that 入口 means entrance, 出口 means exit, and 口 m
 
 Additionally, I discovered that in China, many websites and online services are blocked. To access the content, you need to use VPN. Additionally, you can use Yandex.Translator and local Baidu maps. It is unclear why local women publish their photos in the restaurant's images section.
 
-Chinese communism is not truly communist, and in fact, the largest banks in the world are privately owned. Only the most suitable candidates are invited to the party, as there is a selection process. Some attendees may have religious beliefs, including Taoism, which involves praying to real people.
+Chinese communism is not truly communist, and in fact, the largest chineese banks are privately owned. Only the most suitable candidates are invited to the party, as there is a selection process. Some attendees may have religious beliefs, including Taoism, which involves praying to real people.
 
 The cuisine here is unique. I recommend trying the dumplings, which were actually invented in this region. However, there are still plenty of delicious options to choose from. Raw fish is not commonly consumed and spicy dishes are rare. Rice can be eaten using chopsticks, and salted bamboo is a delectable delicacy.
 
