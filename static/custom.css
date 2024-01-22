@@ -52,8 +52,11 @@ nav {
 }
 
 img {
-  max-inline-size: 100%;
+  max-inline-size: 60%;
   block-size: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav .container {
