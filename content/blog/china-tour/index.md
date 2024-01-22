@@ -45,7 +45,7 @@ Chinese communism is not truly communist, and in fact, the largest chineese bank
 
 The cuisine here is unique. I recommend trying the dumplings, which were actually invented in this region. However, there are still plenty of delicious options to choose from. Raw fish is not commonly consumed and spicy dishes are rare. Rice can be eaten using chopsticks, and salted bamboo is a delectable delicacy.
 
-I visited the official Huawei Store and was impressed by the wide range of products available, which far exceeded the selection in our local Huawei Store or in the UAE. Although half of the store was dedicated to automobiles, the store itself was a larger replica of the Apple Store across the street.  Buying a pink Matebook X Pro is not a good idea, especially if it comes with Windows 11 Chinese Edition.
+I visited the official Huawei Store and was impressed by the wide range of products available, which far exceeded the selection in our local Huawei Store or in the UAE. Although half of the store was dedicated to electrocars, the store itself was a larger replica of the Apple Store across the street.  Buying a pink Matebook X Pro is not a good idea, especially if it comes with Windows 11 Chinese Edition.
 
 Local McDonald's offers a variety of unique menu items such as taro pie, a wide selection of burgers, delicious fries, and milk. 
 
