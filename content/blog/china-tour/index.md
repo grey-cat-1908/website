@@ -39,7 +39,7 @@ During my trip to Shanghai, I had several tasks to complete. Although I won't go
 
 I did learn a few new Chinese characters. Specifically, I learned that 入口 means entrance, 出口 means exit, and 口 means mouth.   
 
-Additionally, I discovered that in China, many websites and online services are blocked. To access the content, you need to use VPN. Additionally, you can use Yandex.Translator and local Baidu maps. It is unclear why local women publish their photos in the restaurant's images section.
+I discovered that in China, many websites and online services are blocked. To access the content, you need to use VPN. Additionally, you can use Yandex.Translator and local Baidu maps. It is unclear why local women publish their photos in the restaurant's images section.
 
 Chinese communism is not truly communist, and in fact, the largest chineese banks are privately owned. Only the most suitable candidates are invited to the party, as there is a selection process. Some attendees may have religious beliefs, including Taoism, which involves praying to real people.
 
