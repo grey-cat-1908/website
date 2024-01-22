@@ -31,7 +31,7 @@ Upon arrival in Shanghai, I tried сandied hawberries, which were certainly very
 
 ![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_nb01.jpg)
 
-I visited the zoo and was amazed by the variety of animals. The zoo is quite expansive. Please find attached a photo of a panda.
+I visited the zoo and was amazed by the variety of animals. The zoo is quite expansive. Panda!!!
 
 ![Panda](https://cdn.arbuz.icu/img/china-tour/panda01.jpg)
 
