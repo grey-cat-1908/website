@@ -24,8 +24,11 @@ The train from Beijing to Shanghai averages about 345 kilometres per hour.
 Upon arrival in Shanghai, I tried сandied hawberries, which were certainly very tasty. Shanghai is undoubtedly wealthier than Beijing. I enjoyed the stunning beauty of Shanghai, but I found the air quality lacking. The already stunning views are enhanced by the city's location on a river. Shanghai is primarily a business hub, characterized by towering skyscrapers. In fact, it is home to one of the world's tallest buildings, currently ranked third in height (previously second).
 
 ![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_b01.jpg)
+
 ![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_most02.jpg)
+
 ![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_most03.jpg)
+
 ![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_nb01.jpg)
 
 I visited the zoo and was amazed by the variety of animals. The zoo is quite expansive. Please find attached a photo of a panda.
@@ -36,13 +39,13 @@ During my trip to Shanghai, I had several tasks to complete. Although I won't go
 
 Specifically, I learned that 入口 means entrance, 出口 means exit, and 口 means mouth.   
 
-Additionally, I discovered that in China, many websites and online services are blocked. To access the content, you need to use a VPN. Additionally, you can use Yandex.Translator and local Baidu maps. It is unclear why local women publish their photos in the restaurant descriptions.
+Additionally, I discovered that in China, many websites and online services are blocked. To access the content, you need to use VPN. Additionally, you can use Yandex.Translator and local Baidu maps. It is unclear why local women publish their photos in the restaurant descriptions.
 
-Chinese communism is not truly communist, and in fact, the largest banks in the world are privately owned.  Only the most suitable candidates are invited to the party, as there is a selection process. Some attendees may have religious beliefs, including Taoism, which involves praying to real people.
+Chinese communism is not truly communist, and in fact, the largest banks in the world are privately owned. Only the most suitable candidates are invited to the party, as there is a selection process. Some attendees may have religious beliefs, including Taoism, which involves praying to real people.
 
 The cuisine here is unique. I recommend trying the dumplings, which were actually invented in this region. However, there are still plenty of delicious options to choose from. Raw fish is not commonly consumed and spicy dishes are rare. Rice can be eaten using chopsticks, and salted bamboo is a delectable delicacy.
 
-I visited the official Huawei Store and was impressed by the wide range of products available, which far exceeded the selection in our local Huawei Store or in the UAE.    Although half of the store was dedicated to automobiles, the store itself was a larger replica of the Apple Store across the street.  Buying a pink Matebook X Pro is not a good idea, especially if it comes with Windows 11 Chinese Edition.
+I visited the official Huawei Store and was impressed by the wide range of products available, which far exceeded the selection in our local Huawei Store or in the UAE. Although half of the store was dedicated to automobiles, the store itself was a larger replica of the Apple Store across the street.  Buying a pink Matebook X Pro is not a good idea, especially if it comes with Windows 11 Chinese Edition.
 
 Local McDonald's offers a variety of unique menu items such as taro pie, a wide selection of burgers, delicious fries, and milk. 
 
