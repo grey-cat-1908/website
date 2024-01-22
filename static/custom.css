@@ -51,6 +51,11 @@ nav {
 
 }
 
+img {
+   height: auto;
+   width:100%;
+}
+
 nav .container {
     display: flex;
     justify-content: space-between;
