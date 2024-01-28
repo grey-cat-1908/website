@@ -8,11 +8,22 @@ I have a lot of projects, but there list of most popular (were/are/will be) and 
 
 * Also I am a member of [Shuoki Team](https://shuoki.top/) and I believe that part of work that I have done is enough big to mark it here.
 
-* Also I started fun-only project [TODAY](https://today.arbuz.icu/) that shows some generated (how?) information about current day. 
+* Also I started fun-only project [TODAY](https://today.arbuz.icu/) that shows some generated (how?) information about current day.
+
+* This website
+
+### Projects working under my wing
+There are some projects that have been created by my friends that I have been involved with. These projects use my technologies and developments and I also help them to live.
+
+* [Tetra Project](https://discord.gg/FmereSURG2) - SCP: SL server, created and managed by my friend `mr.plagul`
 
 ### Archived
   
 * Discord Bot - [KerdokuBot](https://kerdoku.top/) (Rust, Python, JS).
+
+* **ArbuzLand** - My first minecraft server
+
+* [LastArbuz](https://lastarbuz.lol/) - My minecraft server.
   
 * [BotiCord](https://github.com/boticord) SDK: 
     
