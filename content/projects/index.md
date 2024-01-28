@@ -15,7 +15,7 @@ I have a lot of projects, but there list of most popular (were/are/will be) and 
 ### Projects working under my wing
 There are some projects that have been created by my friends that I have been involved with. These projects use my technologies and developments and I also help them to live.
 
-* [Tetra Project](https://discord.gg/FmereSURG2) - SCP: SL server, created and managed by my friend `mr.plagul`
+* [Tetra Project](https://discord.gg/FmereSURG2) - SCP: SL server created and maintained by my friend `mr.plagul`
 
 ### Archived
   
