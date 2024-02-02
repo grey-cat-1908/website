@@ -10,7 +10,7 @@ I have a lot of projects, but there list of most popular (were/are/will be) and 
 
 * Also I started fun-only project [TODAY](https://today.arbuz.icu/) that shows some generated (how?) information about current day.
 
-* A [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) Minecraft server that you can easily run on your Raspberry Pi.
+* A [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) that you can easily run on your Raspberry Pi.
 
 * This website
 
