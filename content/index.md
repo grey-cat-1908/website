@@ -15,6 +15,6 @@ You can find information about some of my public projects on this website ("Proj
 I consider **my main goal to make our world a much better, safer and easier place for everyone.**
 
 
-You can contact me via [Telegram](https://t.me/Grey31) or [Email](mailto:mail@arbuz.icu).
+You can contact me via [Telegram](https://t.me/Grey31) or [Email](https://arbuz.icu/mail).
 
 If you speak Russian and you are interested in me, I can recommend my [Telegram channel](https://t.me/marakarka). Otherwise, you can read my blog on this website.
