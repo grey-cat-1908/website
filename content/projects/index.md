@@ -2,7 +2,7 @@
 
 I have a lot of projects, but there list of most popular (were/are/will be) and which are being maintained.
 
-* Currently, my biggest project is [Melisa](https://melisapy.site/), a module I created to improve my skills and help other people.
+* Currently, my biggest project is [Melisa](https://github.com/MelisaDev/melisa), a module I created to improve my skills and help other people.
   
 * Another my project is [boticordpy](https://github.com/boticord/boticordpy) (Python). I made it for my friend's project, but it is still being used by some newbies.
 
