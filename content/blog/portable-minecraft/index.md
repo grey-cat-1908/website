@@ -34,7 +34,7 @@ This project has quite a large set of unusual but very handy functional features
 
 - Ability to select and automatically install the server (can be customized in the control panel, available server are listed on the project page)
 
-- Ability to connect to the server via **SFTP** (e.g. to install plugins or modify server.properties file)
+- Ability to connect to the server via **SFTP** (e.g. to install plugins or modify `server.properties` file)
 
 - Ability to connect to the server console via **RCON** (batch script for connection is also available on the project page)
 
@@ -87,7 +87,7 @@ Based on the conducted tests, I recommend the following:
 
 - Please ensure that the Wi-Fi network specified in balenaCloud is operational to avoid installation issues. If the network is not available, Ethernet can be used for the first installation and the network can be changed later.    
 
-- If you have slow or unstable internet or if you prefer to play from unlicensed accounts, you can set online-mode to false.
+- If you have slow or unstable internet or if you prefer to play from unlicensed accounts, you can set `online-mode` to `false`.
 
 - To ensure optimal performance, it is recommended to use original or recommended Raspberry Pi power supplies. Using other power supplies may result in degraded performance.    
 
