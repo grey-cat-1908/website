@@ -32,7 +32,7 @@ This project has quite a large set of unusual but very handy functional features
 
 - Ability to allocate not all available RAM to the server, but only a part of it (can be customized in the control panel).
 
-- Ability to select and automatically install the server kernel (can be customized in the control panel, available kernels are listed on the project page)
+- Ability to select and automatically install the server (can be customized in the control panel, available server are listed on the project page)
 
 - Ability to connect to the server via **SFTP** (e.g. to install plugins or modify server.properties file)
 
@@ -71,7 +71,7 @@ In this regard,
 
   A good friend of mine also tested the server on his Raspberry Pi 4 (`4GB`) board. He did not use many accounts and did not perform any performance measurements, but he shared that everything installed within 3-4 minutes while connected via Wi-Fi at `100mbit/sec`. Gameplay in creative mode was good.
 
-  A friend brought a Raspberry Pi to our educational institution, claiming it had `8GB` of memory. However, it turned out to only have 1GB. The installation process took over an hour due to a very unstable connection on a mobile device hotspot with a speed of 5mbit/sec. Although we were able to start the server, we were unable to play. Despite the limited technical capabilities of the Raspberry Pi 4 (`1GB`), we attempted to perform the necessary testing.
+  A friend brought a Raspberry Pi to our educational institution, claiming it had `8GB` of memory. However, it turned out to only have 1GB. The installation process took over an hour due to a very unstable connection on a mobile device hotspot with a speed of `5mbit/sec`. Although we were able to start the server, we were unable to play. Despite the limited technical capabilities of the Raspberry Pi 4 (`1GB`), we attempted to perform the necessary testing.
 
 
 ## Conclusions
