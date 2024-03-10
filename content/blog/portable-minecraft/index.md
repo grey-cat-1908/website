@@ -1,3 +1,5 @@
+![Portable Minecraft Server Photo](https://raw.githubusercontent.com/grey-cat-1908/portable-mc-server/master/static/logo.png)
+
 ## Introduction
 
 Recently, I acquired a Raspberry PI 5 and was eager to find a practical use for it. I am a fan of Minecraft and I have experience in server development (and I am currently working on an exciting project related to it). Therefore, I decided to create a project on this topic to potentially help others.
@@ -87,7 +89,11 @@ Based on the conducted tests, I recommend the following:
 
 - If you have slow or unstable internet or if you prefer to play from unlicensed accounts, you can set online-mode to false.
 
-
 - To ensure optimal performance, it is recommended to use original or recommended Raspberry Pi power supplies. Using other power supplies may result in degraded performance.    
 
 - For fast and reliable storage, it is recommended to use good quality SD disks such as **ADATA EXTREME PRO** or other similar devices.
+
+
+---
+
+I am uncertain about the future development of this project. If you have any suggestions, please share them on the [project page](https://github.com/grey-cat-1908/portable-mc-server/) or email me at <tech@arbuz.icu>. If you are a beautiful girl, please email me at <love@arbuz.icu>.
