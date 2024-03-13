@@ -139,7 +139,7 @@ nav .container {
     display: block;
     width: 100%;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
     border-collapse: collapse;
     white-space: nowrap;
     margin-bottom: 15px;
