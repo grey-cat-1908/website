@@ -110,6 +110,7 @@ nav .container {
 
 .mc {
     margin-top: 50px;
+    overflow-x: auto;
 }
 /* РАЗМЕТКА */
 .mc h1, .mc h2, .mc h3, .mc h4, .mc h5 {
@@ -137,6 +138,7 @@ nav .container {
 
 .mc table {
     display: block;
+    overflow-x: auto;
     width: 100%;
     flex-direction: column;
     text-align: center;
