@@ -23,6 +23,6 @@ You can contact me via [Telegram](https://t.me/Grey31) or [Email](https://arbuz.
 If you speak Russian and you are interested in me, I can recommend my [Telegram channel](https://t.me/marakarka). Otherwise, you can read my blog on this website.
 
 
-<hr/>
+- - -
 
 ## Active experiments 
