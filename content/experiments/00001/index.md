@@ -9,7 +9,7 @@ For each digit, you will have to choose the color (from the offered colors) that
 - The platform may not work correctly in **Safari** (IOS). For the platform to work properly, you need to disable pop-up blocking (at least temporarily) in your device settings.
 - The platform may not work properly if your browser has pop-up blocking enabled. Usually, the browser will ask you if you can allow the site to open an additional window.
 
-Eventually you **MUST** have the Google Forms page open (and, in fact, close itself after a while, and afterward a page on `arbuz.icu` should open, but if it doesn't, it's no big deal).
+Eventually the Google Forms page will open (IT MUST) (and, in fact, it will close itself after a while, but if it doesn't, it's no big deal).
 
 **Clicking on the button below will redirect you to the experiment platform. 
 Please read the rules on this page before clicking! 
