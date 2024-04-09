@@ -1,4 +1,4 @@
-[```{image} [https://domain/path.png](https://cdn.arbuz.icu/img/special/experiment_play.png)
+[```{image} https://cdn.arbuz.icu/img/special/experiment_play.png
 :alt: click
 :width: 800
 :height: 800
