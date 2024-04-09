@@ -199,3 +199,6 @@ nav .container {
     }
 
 }
+
+
+img[alt=play_button_exp] { width: 120px; }
