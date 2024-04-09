@@ -1,5 +1,1 @@
-[```{image} https://cdn.arbuz.icu/img/special/experiment_play.png
-:alt: click
-:width: 800
-:height: 800
-```](https://google.com/)
+[![play_button_exp](https://cdn.arbuz.icu/img/special/experiment_play.png)](https://google.com/)
