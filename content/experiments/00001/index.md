@@ -1,8 +1,6 @@
 ## Guide and Rules
 
-On the experiment platform you will be shown numbers from `0` to `9`.
-
-For each digit, you will have to choose the color (from the offered colors) that you associate with the shown digit the most.
+On the experiment platform you will be shown numbers from `0` to `9`. For each digit, you will have to choose the color (from the offered colors) that you associate with the shown digit the most.
 
 ### Attention!
 
@@ -20,9 +18,7 @@ No instructions are given on the experiment platform!**
 
 ## Порядок действий и правила
 
-На платформе эксперимента вам будут показаны цифры от `0` до `9`.
-
-Для каждой цифры вам нужно будет выбрать цвет (из предложенных), который ассоциируется у вас с показанной цифрой больше всего.
+На платформе эксперимента вам будут показаны цифры от `0` до `9`. Для каждой цифры вам нужно будет выбрать цвет (из предложенных), который ассоциируется у вас с показанной цифрой больше всего.
 
 ### Внимание!
 
