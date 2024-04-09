@@ -6,8 +6,7 @@ For each digit, you will have to choose the color (from the offered colors) that
 
 ### Attention!
 
-- The platform may not work correctly in **Safari** (IOS). For the platform to work properly, you need to disable pop-up blocking (at least temporarily) in your device settings.
-- The platform may not work properly if your browser has pop-up blocking enabled. Usually, the browser will ask you if you can allow the site to open an additional window.
+The platform may not work properly if your browser has pop-up blocking enabled. Usually, the browser will ask you if you can allow the site to open an additional window.
 
 **If the Google Forms page opens, everything is OK!** (You don't need to do anything else)
 
@@ -27,12 +26,11 @@ No instructions are given on the experiment platform!**
 
 ### Внимание!
 
-- Платформа может некорректно работать в **Safari** (на IOS). Для полноценной работы платформы необходимо отключить блокировку всплывающих окон (хотя бы на время) в настройках устройства.
 - Платформа может некорректно работать, если в вашем браузере включена блокировка всплывающих окон. Обычно, браузер спросит вас о том, можно ли разрешить сайту открыть дополнительное окно.
 
 **Если страница Google Forms открылась, то все хорошо!** (Вам больше не нужно ничего делать)
 
-В конечном итоге у вас **ОБЯЗАТЕЛЬНО** должна открыться страница Google Forms (и, по сути, через время сама закрыться, а после должна открыться страница на `arbuz.icu`, но если этого не произойдет, то ничего страшного не будет, просто вы не увидите благодарность). 
+В конечном итоге у вас **ОБЯЗАТЕЛЬНО** должна открыться страница Google Forms (и, по сути, через время сама закрыться, а после должна открыться страница на `arbuz.icu`, но если этого не произойдет, то в этом нет ничего страшного). 
 
 
 **При нажатии на кнопку ниже вы будете перенаправлены на платформу эксперимента. 
