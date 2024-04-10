@@ -1,9 +1,10 @@
+# EXP: 00001
+
 ## Guide and Rules
 
 On the experiment platform you will be shown numbers from `0` to `9`. For each digit, you will have to choose the color (from the offered colors) that you associate with the shown digit the most.
 
 ### Attention!
-
 The platform may not work properly if your browser has pop-up blocking enabled. Usually, the browser will ask you if you can allow the site to open an additional window.
 
 **If the Google Forms page opens, everything is OK!** (You don't need to do anything else)
