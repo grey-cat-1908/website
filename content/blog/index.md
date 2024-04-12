@@ -1,5 +1,7 @@
 # Some blog posts:
 
+* [Прогноз ВП или методика определения граничных баллов [RU-Only]](https://arbuz.icu/blog/prognoz-vp) — `{12.04.2024}`
+
 * [Portable Minecraft Server](https://arbuz.icu/blog/portable-minecraft) — `{10.03.2024}`
 
 * [China Tour](https://arbuz.icu/blog/china-tour) — `{22.01.2024}`
