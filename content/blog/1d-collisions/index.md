@@ -1,9 +1,11 @@
 
 ## 3.
 
-Firstly, it is essential to comprehend how the velocity of the bodies after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
+Firstly, it is essential to comprehend how the velocity of the particles after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
 
-# 3.1
+### 3.1
+
+
 
 $$
 m_{1}\vec{v}_{1} + m_{2}\vec{v}_{2} = m_{1}\vec{v'}_{1} + m_{2}\vec{v'}_{2}
