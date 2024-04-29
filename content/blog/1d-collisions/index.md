@@ -1,9 +1,9 @@
 
-## 3. 
+## 3. The consequences of collisions
 
 Firstly, it is essential to comprehend how the velocity of the particles after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
 
-### 3.1 The consequences of particle collisions.
+### 3.1 With particle
 
 Consider two particles, designated as particles `1` and `2`, with respective masses $m_1$ and $m_2$. Before the collision, the velocities of particles 1 and 2 are $v_1$ and $v_2$, respectively. After the collision, the velocities of particles 1 and 2 are $v_1'$ and $v_2'$, respectively. 
 
