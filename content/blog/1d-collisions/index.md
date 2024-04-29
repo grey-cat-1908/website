@@ -6,7 +6,7 @@ There are numerous reasons why this project is relevant, as well as a wide range
   
 - It can be used to simulate some physical experiments. For instance, it can be used to simulate the one described in _G. A. Galperin's work_[^1]. 
 
-- It can be used as a foundation for future projects.[^2]
+- It can be used as a foundation for future projects. ([Note 1])
 
 ## 3. The consequences of collisions
 
@@ -114,6 +114,8 @@ This leads to the conclusion that the wall will not change its position, but the
 
 ## Note
 
-[^1]: Galperin G. A. (9 December 2003). ["PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)"](http://rcd.ics.org.ru/upload/iblock/007/RCD080402.pdf). DOI: [10.1070/RD2003v008n04ABEH000252](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)
+[Note 1]: Please be aware that the project is distributed under the MIT license. However, if you decide to use it as the basis of your project, it would be advisable to contact me first.
 
-[^2]: Please be aware that the project is distributed under the MIT license. However, if you decide to use it as the basis of your project, it would be advisable to contact me first.
+## References
+
+[^1]: Galperin G. A. (9 December 2003). ["PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)"](http://rcd.ics.org.ru/upload/iblock/007/RCD080402.pdf). DOI: [10.1070/RD2003v008n04ABEH000252](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)
