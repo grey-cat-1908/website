@@ -96,7 +96,7 @@ $$
 The velocity of the wall will take the following form:
 
 $$
-v_w' = \lim\limits_{m_w \to \infty} \frac{2m_1v_1 + v_w(m_w-m_1)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{2m_1v_1}{m+m_w} = 0
+v_w' = \lim\limits_{m_w \to \infty} \frac{2mv + v_w(m_w-m)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{2mv}{m+m_w} = 0
 $$
 
 This leads to the conclusion that the wall will not change its position, but the particle will change its velocity value to the opposite.
