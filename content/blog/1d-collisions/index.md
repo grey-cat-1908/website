@@ -114,6 +114,6 @@ This leads to the conclusion that the wall will not change its position, but the
 
 ## Note
 
-* Please be aware that the project is distributed under the MIT license. However, if you decide to use it as the basis of your project, it would be advisable to contact me first.
+* If you decide to use this project as the basis of your project, it would be advisable to [contact me](https://arbuz.icu/mail) first.
 
 [^1]: Galperin G. A., ["PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)"](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/), Regular and Chaotic Dynamics, 2003, Volume 8, Number 4, pp. 375-394 DOI: [10.1070/RD2003v008n04ABEH000252](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)
