@@ -80,3 +80,23 @@ v'_1 = \frac{2m_2v_2 + v_1(m_1-m_2)}{m_1+m_2} \\
 v'_2 = \frac{2m_1v_1 + v_2(m_2-m_1)}{m_1+m_2}
 \end{cases}
 $$
+
+### 3.2 With wall
+
+Consider particle and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the particle and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the particle and the wall are $v'$ and $v_w'$, respectively. 
+
+In order to proceed, we will utilize the formulas derived in section **3.1**.
+
+The velocity of the particle will take the following form:
+
+$$
+v' = \lim\limits_{m_w \to \infty} \frac{2m_wv_w + v(m-m_w)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{v(m-m_w)}{m+m_w} = -v
+$$
+
+The velocity of the wall will take the following form:
+
+$$
+v_w' = \lim\limits_{m_w \to \infty} \frac{2m_1v_1 + v_w(m_w-m_1)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{2m_1v_1}{m+m_w} = 0
+$$
+
+This leads to the conclusion that the wall will not change its position, but the particle will change its velocity value to the opposite.
