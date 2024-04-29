@@ -21,7 +21,7 @@ $$
 \frac{m_{1}{v_{1}}^2}{2} + \frac{m_{2}{v_{2}}^2}{2} = \frac{m_{1}{v'_{1}}^2}{2} + \frac{m_{2}{v'_{2}}^2}{2}
 $$
 
-The aforementioned equations can be transformed into the following system:
+If we consider the law of conservation of momentum in projection on the X-axis, we can transform the previous equations into the following system:
 
 $$
 \begin{cases}
