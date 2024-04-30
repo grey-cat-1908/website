@@ -1,4 +1,4 @@
-# Elastic Collisions (One Dimensional) 
+# Elastic Collisions Simulation
 
 ## 1. Introduction
 
