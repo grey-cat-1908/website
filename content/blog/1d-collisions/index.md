@@ -184,13 +184,13 @@ The interface of the simulation UI is as follows:
 
 ![img](https://cdn.arbuz.icu/img/other/1d-col.png)
 
-## Conclusion (How To Try?)
+## 6. Conclusion (How To Try?)
 
 You can try the simulator [here](https://od-collisions.arbuz.icu/).
 
 ---
 
-## Note
+## Notes
 
 * If you decide to use this project as the basis of your project, it would be advisable to [contact me](https://arbuz.icu/mail) first.
 
