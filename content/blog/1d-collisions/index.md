@@ -10,7 +10,7 @@ There are numerous reasons why this project is relevant, as well as a wide range
 
 - It can be used in the educational process. For instance, it can be used to illustrate some principles of mechanics to students and to visualize some physics problems.
   
-- It can be used to simulate some physical experiments. For instance, it can be used to simulate the one described in _G. A. Galperin's work.[^1] 
+- It can be used to simulate some physical experiments. For instance, it can be used to simulate the one described in _G. A. Galperin's work_.[^1] 
 
 - It can be used as a basis for future projects.
 
