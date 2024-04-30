@@ -160,6 +160,14 @@ To enhance the smoothness of animations and reduce load times, the following ste
 
   - The user-specified initial velocity will also be br divided by $10^6$.
 
+### 4.2 User Options
+
+For the convenience of users, the velocity and mass of each body can be set according to the user's preferences.
+
+To streamline the user experience and avoid overwhelming the page of the simulator with unnecessary buttons and technical complexities, it was decided to use apply new settings and restart an animation when user reloads the browser page.
+
+So, once the user has entered data into the designated fields, it is automatically saved to the localStorage. [^4]
+
 ---
 
 ## Note
@@ -174,4 +182,6 @@ To enhance the smoothness of animations and reduce load times, the following ste
 
 [^2]: Landau, L.D. and Lifshitz, E.M., _Course of Theoretical Physics_, vol. 1: _Mechanics_, Elsevier Science, 1982.
 
-[^3]: _p5.js_, Processing Foundation, accessed 2024, <https://p5js.org/>
+[^3]: _p5.js_, Processing Foundation, accessed 30 April 2024, <https://p5js.org/>
+
+[^4]: Mozilla Corporation, _Window: localStorage property_, accessed 30 April 2024, <https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage>
