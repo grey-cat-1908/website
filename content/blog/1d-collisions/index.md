@@ -1,3 +1,9 @@
+# Elastic Collisions (One Dimension) 
+
+## 1. Introduction
+
+
+
 ## 2. Relevance
 
 There are numerous reasons why this project is relevant, as well as a wide range of potential applications. The following will outline the primary reasons and applications:
@@ -16,7 +22,7 @@ Firstly, it is essential to comprehend how the velocity of the particles after c
 
 Consider two particles, designated as particles `1` and `2`, with respective masses $m_1$ and $m_2$. Before the collision, the velocities of particles 1 and 2 are $v_1$ and $v_2$, respectively. After the collision, the velocities of particles 1 and 2 are $v_1'$ and $v_2'$, respectively. 
 
-In any collision, momentum is conserved. An elastic collision is an collision, as a result of which the total kinetic energy of the colliding particles is conserved.
+In any collision, momentum is conserved. A collision between to particles is said to be elastic if it involves no change in their internal state. Accordingly, when the law of conservation of energy is applied to such a collision, the internal energy of the particles may be neglected.[^2]
 
 The conservation of momentum before and after the collision is expressed by the following equation:
 
@@ -118,8 +124,8 @@ This leads to the conclusion that the wall will not change its position, but the
 
 * If you have any interesting projects that I could be involved in, or if you would like to contact me, you can do so [here](https://arbuz.icu/mail).
 
-- - - 
-
 ## Reference 
 
-[^1]: Galperin G. A., ["PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)"](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/), Regular and Chaotic Dynamics, 2003, Volume 8, Number 4, pp. 375-394 DOI: [10.1070/RD2003v008n04ABEH000252](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)
+[^1]: Galperin, G. A., _[PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)_, _Regular and Chaotic Dynamics_, 2003, Volume 8, Number 4, pp. 375-394.
+
+[^2]: Landau, L.D. and Lifshitz, E.M., _Course of Theoretical Physics_, vol. 1: _Mechanics_, Elsevier Science, 1982.
