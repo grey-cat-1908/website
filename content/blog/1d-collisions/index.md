@@ -126,6 +126,6 @@ This leads to the conclusion that the wall will not change its position, but the
 
 ## Reference 
 
-[^1]: Galperin, G. A., _[PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)_, _Regular and Chaotic Dynamics_, 2003, Volume 8, Number 4, pp. 375-394.
+[^1]: Galperin, G. A., _[PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)_, _Regular and Chaotic Dynamics_, 2003, vol. 8, no. 4, pp. 375-394.
 
 [^2]: Landau, L.D. and Lifshitz, E.M., _Course of Theoretical Physics_, vol. 1: _Mechanics_, Elsevier Science, 1982.
