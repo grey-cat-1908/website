@@ -118,4 +118,8 @@ This leads to the conclusion that the wall will not change its position, but the
 
 * If you have any interesting projects that I could be involved in, or if you would like to contact me, you can do so [here](https://arbuz.icu/mail).
 
+- - - 
+
+## Reference 
+
 [^1]: Galperin G. A., ["PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)"](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/), Regular and Chaotic Dynamics, 2003, Volume 8, Number 4, pp. 375-394 DOI: [10.1070/RD2003v008n04ABEH000252](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)
