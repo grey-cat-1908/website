@@ -98,7 +98,7 @@ $$
 
 ### 3.2 Body-Wall
 
-Consider body and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the body and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the body and the wall are $v'$ and $v_w'$, respectively. 
+Consider the body and the wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the body and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the body and the wall are $v'$ and $v_w'$, respectively. 
 
 In order to proceed, we will utilize the formulas derived in section **3.1**.
 
