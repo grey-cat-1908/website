@@ -16,7 +16,7 @@ There are numerous reasons why this project is relevant, as well as a wide range
 
 ## 3. The consequences of collisions
 
-Firstly, it is essential to comprehend how the velocity of the bodies after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
+Firstly, it is essential to comprehend how the velocity of the body after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
 
 ### 3.1 With body
 
@@ -98,11 +98,11 @@ $$
 
 ### 3.2 With wall
 
-Consider bodie and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the bodie and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the bodie and the wall are $v'$ and $v_w'$, respectively. 
+Consider body and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the body and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the body and the wall are $v'$ and $v_w'$, respectively. 
 
 In order to proceed, we will utilize the formulas derived in section **3.1**.
 
-The velocity of the bodie will take the following form:
+The velocity of the body will take the following form:
 
 $$
 v' = \lim\limits_{m_w \to \infty} \frac{2m_wv_w + v(m-m_w)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{v(m-m_w)}{m+m_w} = -v
@@ -114,7 +114,7 @@ $$
 v_w' = \lim\limits_{m_w \to \infty} \frac{2mv + v_w(m_w-m)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{2mv}{m+m_w} = 0
 $$
 
-This leads to the conclusion that the wall will not change its position, but the bodie will change its velocity value to the opposite.
+This leads to the conclusion that the wall will not change its position, but the body will change its velocity value to the opposite.
 
 ---
 
