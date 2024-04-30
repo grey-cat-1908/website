@@ -158,7 +158,7 @@ To enhance the smoothness of animations and reduce load times, the following ste
 
   - It was decided to create a loop in the `move` function (`p5.js`) that will perform a given number of operations ($10^6$).
 
-  - The user-specified initial velocity will also be br divided by $10^6$.
+  - The user-specified initial velocity will also be divided by $10^6$.
 
 ### 4.2 User Options
 
