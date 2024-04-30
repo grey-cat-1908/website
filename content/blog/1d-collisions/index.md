@@ -16,13 +16,13 @@ There are numerous reasons why this project is relevant, as well as a wide range
 
 ## 3. The consequences of collisions
 
-Firstly, it is essential to comprehend how the velocity of the particles after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
+Firstly, it is essential to comprehend how the velocity of the bodies after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
 
-### 3.1 With particle
+### 3.1 With body
 
-Consider two particles, designated as particles `1` and `2`, with respective masses $m_1$ and $m_2$. Before the collision, the velocities of particles 1 and 2 are $v_1$ and $v_2$, respectively. After the collision, the velocities of particles 1 and 2 are $v_1'$ and $v_2'$, respectively. 
+Consider two bodies, designated as bodies `1` and `2`, with respective masses $m_1$ and $m_2$. Before the collision, the velocities of bodies 1 and 2 are $v_1$ and $v_2$, respectively. After the collision, the velocities of bodies 1 and 2 are $v_1'$ and $v_2'$, respectively. 
 
-In any collision, momentum is conserved. A collision between to particles is said to be elastic if it involves no change in their internal state. Accordingly, when the law of conservation of energy is applied to such a collision, the internal energy of the particles may be neglected.[^2]
+In any collision, momentum is conserved. A collision between to bodies is said to be elastic if it involves no change in their internal state. Accordingly, when the law of conservation of energy is applied to such a collision, the internal energy of the bodies may be neglected.[^2]
 
 The conservation of momentum before and after the collision is expressed by the following equation:
 
@@ -87,7 +87,7 @@ m_1v_1 + m_2v_2 = m_1(v_2 + v'_2 - v_1) + m_2v'_2
 \end{cases}
 $$
 
-From this, we can derive the velocity of the particles following the collision as follows:
+From this, we can derive the velocity of the bodies following the collision as follows:
 
 $$
 \begin{cases}
@@ -98,11 +98,11 @@ $$
 
 ### 3.2 With wall
 
-Consider particle and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the particle and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the particle and the wall are $v'$ and $v_w'$, respectively. 
+Consider bodie and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the bodie and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the bodie and the wall are $v'$ and $v_w'$, respectively. 
 
 In order to proceed, we will utilize the formulas derived in section **3.1**.
 
-The velocity of the particle will take the following form:
+The velocity of the bodie will take the following form:
 
 $$
 v' = \lim\limits_{m_w \to \infty} \frac{2m_wv_w + v(m-m_w)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{v(m-m_w)}{m+m_w} = -v
@@ -114,7 +114,7 @@ $$
 v_w' = \lim\limits_{m_w \to \infty} \frac{2mv + v_w(m_w-m)}{m+m_w} = \lim\limits_{m_w \to \infty} \frac{2mv}{m+m_w} = 0
 $$
 
-This leads to the conclusion that the wall will not change its position, but the particle will change its velocity value to the opposite.
+This leads to the conclusion that the wall will not change its position, but the bodie will change its velocity value to the opposite.
 
 ---
 
