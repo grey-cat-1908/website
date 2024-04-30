@@ -18,7 +18,7 @@ There are numerous reasons why this project is relevant, as well as a wide range
 
 Firstly, it is essential to comprehend how the velocity of the body after collision is calculated. We will solve the problem in the elastic collision model (one-dimensional Newtonian).
 
-### 3.1 With body
+### 3.1 Between bodies
 
 Consider two bodies, designated as bodies `1` and `2`, with respective masses $m_1$ and $m_2$. Before the collision, the velocities of bodies 1 and 2 are $v_1$ and $v_2$, respectively. After the collision, the velocities of bodies 1 and 2 are $v_1'$ and $v_2'$, respectively. 
 
@@ -96,7 +96,7 @@ v'_2 = \frac{2m_1v_1 + v_2(m_2-m_1)}{m_1+m_2}
 \end{cases}
 $$
 
-### 3.2 With wall
+### 3.2 Between the body and the wall
 
 Consider body and a wall with respective masses $m$ and $m_w \rightarrow \infty$. Before the collision, the velocities of the body and the wall are $v$ and $v_w = 0$, respectively. After the collision, the velocities of the body and the wall are $v'$ and $v_w'$, respectively. 
 
