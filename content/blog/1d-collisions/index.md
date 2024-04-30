@@ -116,6 +116,38 @@ $$
 
 This leads to the conclusion that the wall will not change its position, but the body will change its velocity value to the opposite.
 
+## 4. Technical implementation
+
+### 4.1 Simulation
+
+To create the simulation (animation), it was determined that `Processing` technology, specifically `p5.js`[^3], would be the most suitable.
+
+We will assume that the bodies have the form of two squares of different sizes and colors. The smaller body will be placed to the left of the larger body.
+
+The initial step was to meticulously program the model of the bodies:
+
+  1. For visual convenience, the width of the first body will be $w_1 = 50$ and the second's will be $w_2 = 100$.
+
+  2. Furthermore, for the sake of visual clarity, the coordinates for the bodies will be as follows: $x_1 = 100$, $x_2 = 300$.
+
+  3. The physical constraint (`p5.constrain`) of the first body will be $c_1 = 0$, of the second body $c_2 = 0 + w_1 = 50$  
+
+  4. The initial velocity of the bodies and their mass are set by the user, so for the time being, we will leave them as constants.
+
+Another step is to describe the algorithm of their movement:
+
+  1. If the first smaller body makes contact with the wall ($x_1 <= 0$), adjust its velocity in accordance with the formula described in section **3.2**.
+
+  2. If the bodies collide with each other, then set each of them velocity according to the formulas given in **3.1**.
+
+The next step is to determine the best method for animating the object and moving it with a specified velocity. 
+
+To enhance the smoothness of animations and reduce load times, the following steps were taken: 
+
+  - It was decided to create a loop in the `move` function (`p5.js`) that will perform a given number of operations ($10^6$).
+
+  - The user-specified initial velocity will also be br divided by $10^6$.
+
 ---
 
 ## Note
@@ -129,3 +161,5 @@ This leads to the conclusion that the wall will not change its position, but the
 [^1]: Galperin, G. A., _[PLAYING POOL WITH π (THE NUMBER π FROM A BILLIARD POINT OF VIEW)](http://rcd.ics.org.ru/RD2003v008n04ABEH000252/)_, _Regular and Chaotic Dynamics_, 2003, vol. 8, no. 4, pp. 375-394.
 
 [^2]: Landau, L.D. and Lifshitz, E.M., _Course of Theoretical Physics_, vol. 1: _Mechanics_, Elsevier Science, 1982.
+
+[^3]: _p5.js_, Processing Foundation, accessed 2024, <https://p5js.org/>
