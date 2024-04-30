@@ -12,6 +12,8 @@ I have a lot of projects, but there list of most popular (were/are/will be) and 
 
 * A [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) that you can easily run on your Raspberry Pi.
 
+* A simple [Elastic Collisions Simulator](https://arbuz.icu/blog/1d-collisions/).
+
 * This website
 
 ### Projects working under my wing
