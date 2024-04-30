@@ -124,13 +124,25 @@ To create the simulation (animation), it was determined that `Processing` techno
 
 We will assume that the bodies have the form of two squares of different sizes and colors. The smaller body will be placed to the left of the larger body.
 
+The following variables should also be defined:
+
+  - $v_1, v_2$ - Velocities of the bodies (respectively).
+    
+  - $w_1, w_2$ - Widths of the bodies (respectively).
+    
+  - $m_1, m_2$ - Masses of the bodies (respectively).
+    
+  - $x_1, x_2$ - Current coordinates of the bodies (respectively).
+    
+  - $c_1, c_2$ - Constraints of the bodies coordinates (respectively).
+
 The initial step was to meticulously program the model of the bodies:
 
   1. For visual convenience, the width of the first body will be $w_1 = 50$ and the second's will be $w_2 = 100$.
 
   2. Furthermore, for the sake of visual clarity, the coordinates for the bodies will be as follows: $x_1 = 100$, $x_2 = 300$.
 
-  3. The physical constraint (`p5.constrain`) of the first body will be $c_1 = 0$, of the second body $c_2 = 0 + w_1 = 50$  
+  3. The physical constraint (`p5.constrain`) of the first body's coordinate will be $c_1 = 0$, of the second body's coordinate $c_2 = 0 + w_1 = 50$  
 
   4. The initial velocity of the bodies and their mass are set by the user, so for the time being, we will leave them as constants.
 
