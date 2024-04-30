@@ -168,6 +168,22 @@ To streamline the user experience and avoid overwhelming the page of the simulat
 
 So, once the user has entered data into the designated fields, it is automatically saved to the localStorage. [^4]
 
+## 5. Usage
+
+### 5.1 Common problems
+
+We recommend avoiding setting particularly large values for variables, because:
+
+- Despite the use of optimization tools, there may be instances where the page will use a significant amount of your device's resources.
+
+- Large values may result in animation crashes and premature stopping of counting.
+
+### 5.2 Experience
+
+The interface of the simulation environment is as follows:
+
+![img](https://cdn.arbuz.icu/img/other/1d-col.png)
+
 ---
 
 ## Note
