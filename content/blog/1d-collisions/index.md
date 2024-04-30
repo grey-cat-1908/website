@@ -1,4 +1,4 @@
-# Elastic Collisions (One Dimension) 
+# Elastic Collisions (One Dimensional) 
 
 ## 1. Introduction
 
