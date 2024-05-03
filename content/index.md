@@ -21,7 +21,7 @@ You can contact me via [Telegram](https://t.me/Grey31) or [Email](https://arbuz.
 
 I speak Russian ([native](https://en.wikipedia.org/wiki/Russian_language)), English ([~Upper Intermediate](https://learnenglish.britishcouncil.org/english-levels)). Also I understand a little German ([>Anfanger (A2)](https://www.goethe.de/ins/ru/de/spr/kon/stu.html)) and Esperanto.
 
-If you speak Russian and you are interested in me, I can recommend you to read my [Telegram channel](https://t.me/marakarka). Otherwise, you can read "Arbuz Journal" on this website.
+If you speak Russian and you are interested in me, I can recommend you to read my [Telegram channel](https://t.me/marakarka). Otherwise, you can read Arbuz Journal on this website.
 
 
 - - -
