@@ -15,3 +15,7 @@ The articles available here are published in various formats and languages, as d
 * [China Tour](https://arbuz.icu/blog/china-tour) — `{22.01.2024}`
   
 * [TODAY project](https://arbuz.icu/blog/today-project) — `{27.12.2023}`
+
+---
+
+All rights to the articles published in Arbuz Journal belong to their sole author, Victor K. (Marakarka). Should you wish to use them in any way, please contact him via [the provided contact details](https://arbuz.icu/mail/).
