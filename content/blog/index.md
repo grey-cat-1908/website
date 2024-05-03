@@ -18,4 +18,4 @@ The articles available here are published in various formats and languages, as d
 
 ---
 
-All rights to the articles published in Arbuz Journal belong to their sole author, Victor K. (Marakarka). Should you wish to use them in any way, please contact him via [the provided contact details](https://arbuz.icu/mail/).
+All rights to the articles published in Arbuz Journal belong to their sole author, Viktor K. (Marakarka). Should you wish to use them in any way, please contact him via [the provided contact details](https://arbuz.icu/mail/).
