@@ -1,6 +1,6 @@
 # Hi! This is my homepage!
 
-This is my personal website. I do experiments, publish projects and blog here. 
+This is my personal website. I do experiments, publish projects and articles here. 
 
 ## About me
 
