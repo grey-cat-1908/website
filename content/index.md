@@ -4,7 +4,7 @@ This is my personal website. I do experiments, publish projects and articles her
 
 ## About me
 
-My name is Viktor. I am student from Moscow.
+My name is Viktor. I am a student from Moscow.
 
 I enjoy studying and I believe it will help me achieve all my goals.
 I think I am good at IT, Economics and [Maths](https://www.thesaurus.com/e/grammar/math-vs-maths/#:~:text=Math%20is%20the%20preferred%20term,places%20while%20maths%20was%20elsewhere.).
