@@ -1,12 +1,12 @@
 {
-    "title": "Arbuz Journal — TODAY Project",
+    "title": "The Arbuz Journal — TODAY Project",
     "tags": {
       "description": "A story and explanation about making a resource that shows the emoji and color of the day, even though it might seem useless at first glance.",
       "author": "Viktor K. (Marakarka)",
       "keywords": "Marakarka, Arbuz, Programming, Journal, Blog, Color, Emoji, Maths, Fun"
     },
     "og": {
-        "title": "Arbuz Journal — TODAY Project",
+        "title": "The Arbuz Journal — TODAY Project",
         "description": "A story and explanation about making a resource that shows the emoji and color of the day, even though it might seem useless at first glance."
     }
   }

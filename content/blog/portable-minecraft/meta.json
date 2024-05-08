@@ -1,12 +1,12 @@
 {
-    "title": "Arbuz Journal — Portable Minecraft",
+    "title": "The Arbuz Journal — Portable Minecraft",
     "tags": {
       "description": "The developer's narrative detailing the creation journey of a portable Minecraft server project, designed to operate on a Raspberry Pi platform, accompanied by an explanation elucidating the intricacies involved in the development process.",
       "author": "Viktor K. (Marakarka)",
       "keywords": "Marakarka, Arbuz, Programming, Journal, Blog, Minecraft, Raspberry, Pi, Portable"
     },
     "og": {
-        "title": "Arbuz Journal — Portable Minecraft",
+        "title": "The Arbuz Journal — Portable Minecraft",
         "description": "The developer's narrative detailing the creation journey of a portable Minecraft server project, designed to operate on a Raspberry Pi platform, accompanied by an explanation elucidating the intricacies involved in the development process."
     }
   }

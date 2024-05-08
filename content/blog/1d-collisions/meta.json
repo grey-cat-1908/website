@@ -1,12 +1,12 @@
 {
-    "title": "Arbuz Journal — Elastic Collisions Simulation",
+    "title": "The Arbuz Journal — Elastic Collisions Simulation",
     "tags": {
       "description": "A thorough breakdown of how author built a simulator of elastic collisions between two cubes, complete with a clear explanation and mathematical proof of how it works.",
       "author": "Viktor K. (Marakarka)",
       "keywords": "Marakarka, Arbuz, Programming, Journal, Science, Blog, Experiments, Elastic, Collisions, Physics, Processing"
     },
     "og": {
-        "title": "Arbuz Journal — Elastic Collisions Simulation",
+        "title": "The Arbuz Journal — Elastic Collisions Simulation",
         "description": "A thorough breakdown of how author built a simulator of elastic collisions between two cubes, complete with a clear explanation and mathematical proof of how it works."
     }
   }
