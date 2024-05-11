@@ -91,7 +91,7 @@ Based on the conducted tests, I recommend the following:
 
 - To ensure optimal performance, it is recommended to use original or recommended Raspberry Pi power supplies. Using other power supplies may result in degraded performance.    
 
-- For fast and reliable storage, it is recommended to use good quality SD disks such as **ADATA EXTREME PRO** or other similar devices.
+- For fast and reliable storage, it is recommended to use good quality SD disks such as **SanDisk EXTREME PRO** or other similar devices.
 
 
 ---
