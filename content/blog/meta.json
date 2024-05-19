@@ -1,11 +1,11 @@
 {
     "title": "The Arbuz Journal",
     "tags": {
-      "description": "Homepage of the Arbuz Journal",
+      "description": "Homepage of the Arbuz Journal. Interesting articles on various topics are here.",
       "keywords": "Marakarka, Arbuz, Journal, Blog"
     },
     "og": {
         "title": "The Arbuz Journal",
-        "description": "Homepage of the Arbuz Journal"
+        "description": "Homepage of the Arbuz Journal. Interesting articles on various topics are here."
     }
   }
