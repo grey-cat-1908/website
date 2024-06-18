@@ -33,6 +33,3 @@ No instructions are given on the experiment platform!**
 **При нажатии на кнопку ниже вы будете перенаправлены на платформу эксперимента. 
 Пожалуйста, прочитайте информацию, указанную на этой странице, до нажатия на кнопку! 
 На платформе эксперимента текстовая информация представлена не будет!**
-
-
-[![play_button_exp](https://cdn.arbuz.icu/img/special/experiment_play.png)](https://experiment.arbuz.icu/)
