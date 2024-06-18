@@ -28,5 +28,3 @@ If you speak Russian and you are interested in me, I can recommend you to read m
 
 
 ## Active experiments/recruitments
-
-- [EXP: 00001](https://arbuz.icu/experiments/00001) - 10.04.2024
