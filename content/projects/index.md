@@ -2,24 +2,21 @@
 
 I have a lot of projects, but there list of most popular (were/are/will be) and which are being maintained.
 
-* Currently, my biggest project is [Melisa](https://github.com/MelisaDev/melisa), a module I created to improve my skills and help other people.
+* [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper. A module I created to improve my skills and help other people.
   
-* Another my project is [boticordpy](https://github.com/boticord/boticordpy) (Python). I made it for my friend's project, but it is still being used by some newbies.
+* [boticordpy](https://github.com/boticord/boticordpy) - BotiCord API Python wrapper. I made it for my friend's project, but it is still being used by some newbies.
 
-* Also I am a member of [Shuoki Team](https://shuoki.top/) and I believe that part of work that I have done is enough big to mark it here.
+* Fun-only project [TODAY](https://today.arbuz.icu/). Shows color and emoji of today.
 
-* Also I started fun-only project [TODAY](https://today.arbuz.icu/) that shows some generated (how?) information about current day.
+* [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) that you can easily run on your Raspberry Pi.
 
-* A [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) that you can easily run on your Raspberry Pi.
+* Simple [Elastic Collisions Simulator](https://arbuz.icu/blog/1d-collisions/).
 
-* A simple [Elastic Collisions Simulator](https://arbuz.icu/blog/1d-collisions/).
+* [Line Metro Map Editor](https://github.com/grey-cat-1908/metro)
 
 * This website
 
-### Projects working under my wing
-There are some projects that have been created by my friends that I have been involved with. These projects use my technologies and developments and I also help them to live.
-
-* [Tetra Project](https://discord.gg/FmereSURG2) - SCP: SL server created and maintained by my friend `mr.plagul`
+Also I am a member of [Shuoki Team](https://shuoki.top/) and I believe that part of work that I have done is enough big to mark it here.
 
 ### Archived
   
