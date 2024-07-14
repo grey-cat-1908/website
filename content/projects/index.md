@@ -18,6 +18,8 @@ I have a lot of projects, but there list of most popular (were/are/will be) and 
 
 Also I am a member of [Shuoki Team](https://shuoki.top/) and I believe that part of work that I have done is enough big to mark it here.
 
+You can find all my other projects on my [Github](https://github.com/grey-cat-1908/) account.
+
 ### Archived
   
 * Discord Bot - [KerdokuBot](https://kerdoku.top/) (Rust, Python, JS).
