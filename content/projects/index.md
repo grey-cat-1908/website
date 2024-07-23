@@ -1,6 +1,6 @@
 ## Projects
 
-This list may not be accurate. You can find more complete projects on my [GitHub](https://github.com/grey-cat-1908/) account.
+This list may not be accurate. You can find more complete list of my projects on [GitHub](https://github.com/grey-cat-1908/).
 
 ### For people
 
