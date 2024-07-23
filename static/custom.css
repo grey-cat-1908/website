@@ -7,21 +7,15 @@
 }
 
 @font-face {
-    src: url("./fonts/Onest-Bold.ttf");
-    font-family: "Onest";
-    font-weight: 600;
-}
-
-@font-face {
     src: url("./fonts/Onest-Medium.ttf");
     font-family: "Onest";
-    font-weight: 400;
+    font-weight: bold;
 }
 
 @font-face {
     src: url("./fonts/Onest-Regular.ttf");
     font-family: "Onest";
-    font-weight: 200;
+    font-weight: normal;
 }
 
 
@@ -31,7 +25,6 @@ body {
     font-family: var(--font);
     color: var(--font-color);
     font-size: var(--font-size);
-    font-weight: 200;
     line-height: 1.8;
     max-width: 64rem;
     padding: 0 1rem;
