@@ -10,7 +10,7 @@ This list may not be accurate. You can find more complete list of my projects on
 
 * [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) - Balena application, making it easier to run a Minecraft server on your Raspberry Pi.
 
-### Wen
+### Web
 
 * This website and simple build script.
 
