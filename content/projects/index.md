@@ -8,7 +8,7 @@ This list may not be accurate. You can find more complete list of my projects on
   
 * [boticordpy](https://github.com/boticord/boticordpy) - BotiCord API Python wrapper.
 
-* [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) - Balena applications, making it easier to run a Minecraft server on your Raspberry Pi.
+* [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) - Balena application, making it easier to run a Minecraft server on your Raspberry Pi.
 
 ### Wen
 
