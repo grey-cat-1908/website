@@ -26,9 +26,8 @@ body {
     color: var(--font-color);
     font-size: var(--font-size);
     line-height: 1.8;
-    max-width: 64rem;
+    max-width: min(64rem, 90%);
     padding: 0 1rem;
-    max-width: 90%;
 }
 
 nav * {
