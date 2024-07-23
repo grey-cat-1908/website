@@ -1,37 +1,41 @@
-## My Projects
+## Projects
 
-I have a lot of projects, but there list of most popular (were/are/will be) and which are being maintained.
+This list may not be accurate. You can find more complete projects on my [GitHub](https://github.com/grey-cat-1908/) account.
 
-* [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper. A module I created to improve my skills and help other people.
+### For people
+
+* [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper.
   
-* [boticordpy](https://github.com/boticord/boticordpy) - BotiCord API Python wrapper. I made it for my friend's project, but it is still being used by some newbies.
+* [boticordpy](https://github.com/boticord/boticordpy) - BotiCord API Python wrapper.
 
-* Fun-only project [TODAY](https://today.arbuz.icu/). Shows color and emoji of today.
+* [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) - Balena applications, making it easier to run a Minecraft server on your Raspberry Pi.
 
-* [Portable Minecraft Server](https://github.com/grey-cat-1908/portable-mc-server) that you can easily run on your Raspberry Pi.
+### Wen
 
-* Simple [Elastic Collisions Simulator](https://arbuz.icu/blog/1d-collisions/).
+* This website and simple build script.
 
-* [Line Metro Map Editor](https://github.com/grey-cat-1908/metro)
+* [Line Metro Map Editor](https://github.com/grey-cat-1908/metro) - Simple web application for creating line metro maps.
 
-* This website
+### JFF / Experiments
 
-Also I am a member of [Shuoki Team](https://shuoki.top/) and I believe that part of work that I have done is enough big to mark it here.
+* [TODAY](https://today.arbuz.icu/) - Shows color and emoji of today.
 
-You can find all my other projects on my [Github](https://github.com/grey-cat-1908/) account.
+* [Elastic Collisions Simulator](https://arbuz.icu/blog/1d-collisions/) - Simple 1D elastic collisions simulator.
 
 ### Archived
-  
-* Discord Bot - [KerdokuBot](https://kerdoku.top/) (Rust, Python, JS).
 
-* **ArbuzLand** - My first minecraft server
+* [The Arbuz Journal](https://arbuz.icu/) - My blog journal on this website.
 
-* [LastArbuz](https://lastarbuz.lol/) - My minecraft server.
+* [KerdokuBot](https://kerdoku.top/) - Multifunctional Discord Bot.
+
+* [LastArbuz](https://lastarbuz.lol/) - Minecraft SMP.
   
 * [BotiCord](https://github.com/boticord) SDK: 
     
-    * [boticordrs](https://github.com/boticord/boticordrs) (Rust);
+    * [boticordrs](https://github.com/boticord/boticordrs) - BotiCord API Rust wrapper.
     
-    * [boticorddart](https://github.com/grey-cat-1908/boticorddart) (Dart);
+    * [boticorddart](https://github.com/grey-cat-1908/boticorddart) - BotiCord API Dart wrapper.
     
-    * Also I am developer of [BotiCord Material Docs](https://github.com/boticord/docs) and [BumpBot](https://boticord.top/bot/947141336451153931).
+    * [BotiCord Material Docs](https://github.com/boticord/docs) - Better documentation for BotiCord API.
+
+    * [BumpBot](https://boticord.top/bot/947141336451153931) - Service Discord Bot for BotiCord.
