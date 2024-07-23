@@ -63,6 +63,7 @@ a {
 /* РАЗМЕТКА */
 .mc h1, .mc h2, .mc h3, .mc h4, .mc h5 {
     color: #fff;
+    text-align: left!important;
 }
 
 .mc a {
