@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;400;600&display=swap');
 :root {
     --font: 'Onest', sans-serif;
     --bg-color: #15171f;
     --font-color: #dadada;
-    --font-size: 17px;
+    --nav-font-color: white;
+    --font-size: 1.2rem;
 }
 
 @font-face {
@@ -26,13 +26,15 @@
 
 
 body {
-    padding: 0;
-    margin: 0;
+    margin: 1rem auto;
     background-color: var(--bg-color);
     font-family: var(--font);
     color: var(--font-color);
     font-size: var(--font-size);
     font-weight: 200;
+    line-height: 1.8;
+    max-width: 64rem;
+    padding: 0 1rem;
 }
 
 button, a {
@@ -45,10 +47,9 @@ button, a {
     font-size: var(--font-size);
 }
 
-nav {
-    /* ground-color: #0d0e13; */
-
-
+nav * {
+  margin-right: 1rem;
+  color: var(--nav-font-color);
 }
 
 img {
@@ -59,58 +60,9 @@ img {
   margin-right: auto;
 }
 
-nav .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    border-bottom: 1px solid #9f9f9f;
-}
-
-.container {
-    max-width: 1300px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-.nav-avatar {
-    display: flex;
-    align-items: center;
-
-}
-
-.nav-avatar img {
-    width: 60px;
-    border-radius: 1rem;
-}
-
-.nav-name {
-    font-size: 20px;
-    font-weight: 600;
-}
-
-.nav-toggle-button {
-    display: none;
-    cursor: pointer;
-}
-
-.nav-list {
-    list-style: none;
-    display: flex;
-    gap: 10px 40px;
-}
-
-.nav-button {
-    transition: .12s ease-in-out;
-}
-
-.nav-button:hover {
-    color: #c7c7c7;
-}
-
 .mc {
-    margin-top: 50px;
     overflow-x: auto;
+    text-align: justify;
 }
 /* РАЗМЕТКА */
 .mc h1, .mc h2, .mc h3, .mc h4, .mc h5 {
@@ -151,53 +103,9 @@ nav .container {
 
 }
 
-
-
-
 .mc table td, table th {
     padding: 15px;
     border-bottom: 1px solid #d6d6d6;
-}
-
-
-
-
-@media (max-width: 520px) {
-    .nav-toggle-button {
-        display: block;
-        font-size: 25px;
-    }
-
-    .nav-toggle {
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height .5s;
-    }
-
-    .nav-toggle.active {
-        max-height: 200px;
-    }
-
-    nav .container {
-        flex-direction: column;
-    }
-    .nav-toggle .nav-list {
-        flex-direction: column;
-        padding: 0;
-        gap: 15px 0;
-    }
-    .nav-toggle {
-        width: 100%;
-    }
-
-
-    .nav-main {
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
 }
 
 
