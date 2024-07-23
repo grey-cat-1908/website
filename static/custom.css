@@ -35,16 +35,7 @@ body {
     line-height: 1.8;
     max-width: 64rem;
     padding: 0 1rem;
-}
-
-button, a {
-    outline: 0;
-    border: 0;
-    text-decoration: none;
-    background: 0;
-    font-family: var(--font);
-    color: var(--font-color);
-    font-size: var(--font-size);
+    max-width: 80%;
 }
 
 nav * {
