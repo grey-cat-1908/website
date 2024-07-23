@@ -44,7 +44,7 @@ nav * {
 }
 
 img {
-  max-inline-size: 80%;
+  max-inline-size: 85%;
   block-size: auto;
   display: block;
   margin-left: auto;
@@ -53,7 +53,13 @@ img {
 
 .mc {
     overflow-x: auto;
+    text-align: justify;
 }
+
+a {
+    text-decoration: none;
+}
+
 /* РАЗМЕТКА */
 .mc h1, .mc h2, .mc h3, .mc h4, .mc h5 {
     color: #fff;
