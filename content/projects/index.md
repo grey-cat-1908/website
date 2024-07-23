@@ -24,7 +24,7 @@ This list may not be accurate. You can find more complete list of my projects on
 
 ### Archived
 
-* [The Arbuz Journal](https://arbuz.icu/) - My blog journal on this website.
+* [The Arbuz Journal](https://arbuz.icu/blog) - My blog journal on this website.
 
 * [KerdokuBot](https://kerdoku.top/) - Multifunctional Discord Bot.
 
