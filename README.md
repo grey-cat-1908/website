@@ -14,7 +14,7 @@ At the moment, the site is hosted on CloudFlare Pages, but once GitVerse Pages i
 
 - [/](https://arbuz.icu/) - Main page
 - [/projects](https://arbuz.icu/projects) - List of projects
-- [/blog](https://asrbuz.icu/blog) - Old blog posts
+- [/blog](https://arbuz.icu/blog) - Old blog posts
 
 **NOTE:** After deleting my Telegram channel, I wanted to delete all my blog posts. I decided not to delete the publications from this site, so the page is just hidden, but you can still access it. 
 
