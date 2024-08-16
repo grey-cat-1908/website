@@ -12,7 +12,7 @@ This list may not be accurate. You can find more complete list of my projects on
 
 ### Web
 
-* This website and simple build script.
+* [This website](https://github.com/grey-cat-1908/arbuzicu/) and a simple build script.
 
 * [Line Metro Map Editor](https://github.com/grey-cat-1908/metro) - Simple web application for creating line metro maps.
 
