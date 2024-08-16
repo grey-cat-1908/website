@@ -16,10 +16,10 @@ At the moment, the site is hosted on CloudFlare Pages, but once GitVerse Pages i
 - [/projects](https://arbuz.icu/projects) - List of projects
 - [/blog](https://arbuz.icu/blog) - Old blog posts
 
-**NOTE:** After deleting my Telegram channel, I wanted to delete all my blog posts. I decided not to delete the publications from this site, so the page is just hidden, but you can still access it. 
+**NOTE:** After deleting my Telegram channel, I wanted to delete all my blog posts. However, I decided not to delete the publications from this site, so the page is just hidden, but you can still access it. 
 
 ## A little historical note
 
 Previously, I didn't want to simplify the site that much, and there are a lot more pages and material here. You can see the old version [here](https://41ecb9be.arbuzicu.pages.dev/).
 
-P.S. `*.pages.dev` might not work for you. :\ 
+P.S. `*.pages.dev` might not work for you. :/
