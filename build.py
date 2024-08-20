@@ -1,80 +1,98 @@
 import os
 import shutil
 import json
-
 import mistune
 
-render = mistune.create_markdown(
-    plugins=['math', 'strikethrough', 'footnotes', 'table', 'url', 'task_lists', 'abbr', 'mark', 'subscript', 'spoiler']
+markdown_renderer = mistune.create_markdown(
+    plugins=[
+        "math",
+        "strikethrough",
+        "footnotes",
+        "table",
+        "url",
+        "task_lists",
+        "abbr",
+        "mark",
+        "subscript",
+        "spoiler",
+    ]
 )
 
-try:
-    shutil.rmtree("build")
-except:
-    pass
+shutil.rmtree("build", ignore_errors=True)
+os.makedirs("build")
 
-os.mkdir("build")
+with open("template.html", "r") as template_file:
+    template_text = template_file.read()
 
-template_file = open('template.html', "r")
-template_text = template_file.read()
-template_file.close()
+with open("meta.json", "r") as meta_file:
+    base_meta = json.load(meta_file)
 
-base_meta_file = open('meta.json', "r")
-base_meta = json.loads(base_meta_file.read())
-base_meta_file.close()
 
-def parse_meta(data):
-    result = ""
+def parse_meta(meta_data):
+    """Generate meta tags for the HTML head section."""
+    meta_tags = []
 
-    for key, value in data['tags'].items():
-        result += f'<meta name="{key}" content="{value}">\n'
-    
-    for key, value in data['og'].items():
-        result += f'<meta property="og:{key}" content="{value}">\n'
+    for key, value in meta_data.get("tags", {}).items():
+        meta_tags.append(f'<meta name="{key}" content="{value}">')
 
-    return result
+    for key, value in meta_data.get("og", {}).items():
+        meta_tags.append(f'<meta property="og:{key}" content="{value}">')
 
-def gen_file(directory, filename):
-    file = open(directory + filename, "r")
-    md_text = file.read()
-    file.close()
+    return "\n".join(meta_tags)
 
-    try:
-        file = open(directory + 'meta.json', "r")
-        meta = json.loads(file.read())
-        file.close()
-    except:
-        meta = base_meta
-    
+
+def generate_html_content(directory, filename):
+    """Generate HTML content from a markdown file and meta data."""
+    file_path = os.path.join(directory, filename)
+
+    with open(file_path, "r") as file:
+        md_text = file.read()
+
+    meta_path = os.path.join(directory, "meta.json")
+    meta = base_meta
+    if os.path.exists(meta_path):
+        with open(meta_path, "r") as meta_file:
+            meta = json.load(meta_file)
+
     meta_data = parse_meta(meta)
 
-    return template_text.replace("{{%CONTENT%}}", render(md_text)).replace("{{%TITLE%}}", meta['title']).replace("{{%META%}}", meta_data)
+    return (
+        template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
+        .replace("{{%TITLE%}}", meta.get("title", ""))
+        .replace("{{%META%}}", meta_data)
+    )
 
-def go_through(directory):
-    for filename in os.listdir(directory):
-        _, _, fier = directory.partition('/')
-        if len(fier) != 0: fier += "/"
 
-        if len(filename.split(".")) == 1:
-            os.makedirs(f'build/{fier}{filename}')
-            go_through(directory + "/" + filename)
+def copy_static_files(static_dir, build_dir="build"):
+    """Copy static files and directories to the build folder."""
+    for element in os.listdir(static_dir):
+        src = os.path.join(static_dir, element)
+        dst = os.path.join(build_dir, element)
+
+        if os.path.isdir(src):
+            shutil.copytree(src, dst)
         else:
-            if filename.split(".")[1] == "json":
-                continue
-            for ofn in os.listdir("static"):
-                try:
-                    if len(ofn.split(".")) == 1:
-                        shutil.copytree(f"{os.getcwd()}/static/{ofn}", f"{os.getcwd()}/build/{fier}{ofn}")
-                    else:
-                        shutil.copy(f"{os.getcwd()}/static/{ofn}", f"{os.getcwd()}/build/{fier}{ofn}")
-                except:
-                    pass
+            shutil.copy(src, dst)
 
-            content = gen_file(f"{os.getcwd()}/{directory}/", filename)
-            loc = fier + filename.split(".")[0] + '.html'
 
-            file = open(f"{os.getcwd()}/build/{loc}", "a")    
-            file.write(content)
-            file.close()
+def process_content_directory(source_dir, target_dir):
+    """Recursively process the content directory and generate HTML files."""
+    for filename in os.listdir(source_dir):
+        source_path = os.path.join(source_dir, filename)
+        target_path = os.path.join(target_dir, filename)
 
-go_through("content")
+        if os.path.isdir(source_path):
+            os.makedirs(target_path, exist_ok=True)
+            process_content_directory(source_path, target_path)
+        else:
+            if filename.endswith(".md"):
+                html_filename = os.path.splitext(filename)[0] + ".html"
+                output_file = os.path.join(target_dir, html_filename)
+                content = generate_html_content(source_dir, filename)
+
+                with open(output_file, "w") as file:
+                    file.write(content)
+
+
+copy_static_files("static")
+process_content_directory("content", "build")

@@ -6,7 +6,7 @@ This repository hosts the source code for my personal website.
 
 I have enough experience to create interesting websites, but I want my personal web page to be simple and easy to understand. I want it to be straightforward, with text as the main component.
 
-Even though it looks pretty basic, the site has a lot more going on. It also has the source code for a simple build script that runs on push and turns markdown files into HTML pages.
+Even though it looks pretty basic, the website has a lot more going on. This repository also hosts the source code for a simple build script that runs on push and renders markdown files into HTML pages.
 
 At the moment, the site is hosted on CloudFlare Pages, but once GitVerse Pages is released, I'm thinking about moving it there.
 
