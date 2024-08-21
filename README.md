@@ -1,4 +1,4 @@
-# My website
+# My personal website
 
 ## Main info
 
