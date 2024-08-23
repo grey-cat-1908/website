@@ -26,7 +26,7 @@ body {
     color: var(--font-color);
     font-size: var(--font-size);
     line-height: 1.8;
-    max-width: min(64rem, 85%);
+    max-width: min(54rem, 85%);
     padding: 0 1rem;
 }
 
