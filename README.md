@@ -22,7 +22,7 @@ At the moment, the site is hosted on CloudFlare Pages, but once GitVerse Pages i
 
 I didn't want to create a 404 page. I wanted to keep things simple so that all pages would be rendered by the build script. However, CloudFlare Pages forwards to the main page of the site if the page is not found, which interferes with the search results. So I had to create my own 404 page.
 
-**CLOUDFLARE CREATE DEFAULT 404 PAGE PLEASE**
+**CLOUDFLARE CREATE A DEFAULT 404 PAGE PLEASE**
 
 ## A little historical note
 
