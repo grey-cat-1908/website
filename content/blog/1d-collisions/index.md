@@ -182,19 +182,19 @@ We recommend avoiding setting particularly large values for variables, because:
 
 The interface of the simulation UI is as follows:
 
-![img](https://cdn.arbuz.icu/img/other/1d-col.png)
+![img](https://cdn.mrkrk.me/img/other/1d-col.png)
 
 ## 6. Conclusion (How To Try?)
 
-You can try the simulator [here](https://od-collisions.arbuz.icu/).
+You can try the simulator [here](https://od-collisions.mrkrk.me/).
 
 ---
 
 ## Notes
 
-* If you decide to use this project as the basis of your project, it would be advisable to [contact me](https://arbuz.icu/mail) first.
+* If you decide to use this project as the basis of your project, it would be advisable to [contact me](mailto@mail@mrkrk.me) first.
 
-* If you have any interesting projects that I could be involved in, or if you would like to contact me, you can do so [here](https://arbuz.icu/mail).
+* If you have any interesting projects that I could be involved in, or if you would like to contact me, you can do so [here](mailto@mail@mrkrk.me).
 
 * You can find the project files in the [repository on Github](https://github.com/grey-cat-1908/collisions-fool-)
 
