@@ -96,4 +96,4 @@ Based on the conducted tests, I recommend the following:
 
 ---
 
-I am uncertain about the future development of this project. If you have any suggestions, please share them on the [project page](https://github.com/grey-cat-1908/portable-mc-server/) or email me at <tech@arbuz.icu>. If you are a beautiful girl, please email me at <love@arbuz.icu>.
+I am uncertain about the future development of this project. If you have any suggestions, please share them on the [project page](https://github.com/grey-cat-1908/portable-mc-server/) or email me at <mail@mrkrk.me>.
