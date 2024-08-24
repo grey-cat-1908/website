@@ -12,19 +12,19 @@ This list may not be accurate. You can find more complete list of my projects on
 
 ### Web
 
-* [This website](https://github.com/grey-cat-1908/arbuzicu/) and a simple build script.
+* [This website](https://github.com/grey-cat-1908/website/) and a simple build script.
 
 * [Line Metro Map Editor](https://github.com/grey-cat-1908/metro) - Simple web application for creating line metro maps.
 
 ### JFF / Experiments
 
-* [TODAY](https://today.arbuz.icu/) - Shows color and emoji of today.
+* [TODAY](https://today.mrkrk.me/) - Shows color and emoji of today.
 
-* [Elastic Collisions Simulator](https://arbuz.icu/blog/1d-collisions/) - Simple 1D elastic collisions simulator.
+* [Elastic Collisions Simulator](https://mrkrk.me/blog/1d-collisions/) - Simple 1D elastic collisions simulator.
 
 ### Archived
 
-* [The Arbuz Journal](https://arbuz.icu/blog) - My blog journal on this website.
+* [The Arbuz Journal](https://mrkrk.me/blog) - My blog journal on this website.
 
 * [KerdokuBot](https://kerdoku.top/) - Multifunctional Discord Bot.
 
