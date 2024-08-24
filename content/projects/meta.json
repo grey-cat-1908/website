@@ -1,12 +1,7 @@
 {
     "title": "Projects",
     "tags": {
-      "description": "List of projects of mrkrk",
-      "author": "Viktor K. (mrkrk)",
-      "keywords": "marakarka, arbuz, programming, projects, mrkrk, маракарка"
+      "description": "List of projects of mrkrk"
     },
-    "og": {
-        "title": "Projects",
-        "description": "List of projects of mrkrk"
-    }
+    "og": {}
 }
