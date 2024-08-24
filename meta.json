@@ -1,12 +1,8 @@
 {
     "title": "mrkrk",
     "tags": {
-      "description": "The personal internet portal of mrkrk",
-      "author": "Viktor K. (mrkrk)",
+      "description": "The personal internet portal of mrkrk.",
       "keywords": "marakarka, arbuz, programming, experiments, mrkrk, маракарка"
     },
-    "og": {
-        "title": "mrkrk",
-        "description": "The personal internet portal of mrkrk"
-    }
-  }
+    "og": {}
+}
