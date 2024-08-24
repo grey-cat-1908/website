@@ -95,23 +95,23 @@
 
 ### Среднее отклонение
 
-![таблица3](https://cdn.arbuz.icu/img/forecast-vp/sred_otkl.png)
+![таблица3](https://cdn.mrkrk.me/img/forecast-vp/sred_otkl.png)
 
-![таблица5](https://cdn.arbuz.icu/img/forecast-vp/sred_otkl2.png)
+![таблица5](https://cdn.mrkrk.me/img/forecast-vp/sred_otkl2.png)
 
-![график1](https://cdn.arbuz.icu/img/forecast-vp/graph_otkl.png)
+![график1](https://cdn.mrkrk.me/img/forecast-vp/graph_otkl.png)
 
 ### Среднее абсолютное отклонение
 
-![таблица4](https://cdn.arbuz.icu/img/forecast-vp/absolute_otkl.png)
+![таблица4](https://cdn.mrkrk.me/img/forecast-vp/absolute_otkl.png)
 
-![таблица6](https://cdn.arbuz.icu/img/forecast-vp/absolute_otkl2.png)
+![таблица6](https://cdn.mrkrk.me/img/forecast-vp/absolute_otkl2.png)
 
-![график2](https://cdn.arbuz.icu/img/forecast-vp/graph_otkl2.png)
+![график2](https://cdn.mrkrk.me/img/forecast-vp/graph_otkl2.png)
 
 ### Точность
 
-![таблица7](https://cdn.arbuz.icu/img/forecast-vp/tochnost.png)
+![таблица7](https://cdn.mrkrk.me/img/forecast-vp/tochnost.png)
 
 ### Небольшое пояснение
 
@@ -133,4 +133,4 @@
 
 _1. Данная статья написана в свободной форме, но ее вполне можно привести к соответствующему ГОСТ виду._
 
-_2. Если у вас есть интересные проекты, где я могу принять участие, или вы хотите связаться со мной, то вы можете сделать это [здесь](https://arbuz.icu/mail)._ 
+_2. Если у вас есть интересные проекты, где я могу принять участие, или вы хотите связаться со мной, то вы можете сделать это [здесь](mailto:mail@mrkrk.me)._ 
