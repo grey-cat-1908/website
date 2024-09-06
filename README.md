@@ -24,6 +24,12 @@ I didn't want to create a 404 page. I wanted to keep things simple so that all p
 
 **CLOUDFLARE CREATE A DEFAULT 404 PAGE PLEASE**
 
+## About HTML minification
+
+The build script has some issues with indentation and code beautification. I'm too lazy to fix them, so I decided to minify the rendered HTML instead.
+
+I'm using [this excellent tool](https://github.com/wilsonzlin/minify-html) to minify rendered HTML.
+
 ## A little historical note
 
 Previously, I didn't want to simplify the site that much, and there are a lot more pages and material here. You can see the old version [here](https://41ecb9be.arbuzicu.pages.dev/).

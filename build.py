@@ -1,7 +1,9 @@
 import os
 import shutil
 import json
+
 import mistune
+import minify_html
 
 markdown_renderer = mistune.create_markdown(
     plugins=[
@@ -61,10 +63,12 @@ def generate_html_content(directory, filename, is_blog=False):
 
     template_to_use = blog_template_text if is_blog else template_text
 
-    return (
+    return minify_html.minify(
         template_to_use.replace("{{%CONTENT%}}", markdown_renderer(md_text))
         .replace("{{%TITLE%}}", meta.get("title", ""))
-        .replace("{{%META%}}", meta_data)
+        .replace("{{%META%}}", meta_data),
+        minify_js=True,
+        remove_processing_instructions=True,
     )
 
 

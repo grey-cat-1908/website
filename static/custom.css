@@ -1,25 +1,24 @@
 :root {
-    --font: 'Onest', sans-serif;
+    --font: "Onest", sans-serif;
     --bg-color: #15171f;
     --font-color: #dadada;
     --nav-font-color: white;
     --font-size: 1.2rem;
-}
-
-@font-face {
+  }
+  
+  @font-face {
     src: url("./fonts/Onest-Medium.ttf");
     font-family: "Onest";
     font-weight: bold;
-}
-
-@font-face {
+  }
+  
+  @font-face {
     src: url("./fonts/Onest-Regular.ttf");
     font-family: "Onest";
     font-weight: normal;
-}
-
-
-body {
+  }
+  
+  body {
     margin: 1rem auto;
     background-color: var(--bg-color);
     font-family: var(--font);
@@ -28,57 +27,60 @@ body {
     line-height: 1.8;
     max-width: min(54rem, 85%);
     padding: 0 1rem;
-}
-
-nav * {
-  margin-right: 1rem;
-  color: var(--nav-font-color);
-}
-
-img {
-  max-inline-size: 85%;
-  block-size: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.mc {
+  }
+  
+  nav * {
+    margin-right: 1rem;
+    color: var(--nav-font-color);
+  }
+  
+  img {
+    max-inline-size: 85%;
+    block-size: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .mc {
     overflow-x: auto;
     text-align: justify;
-}
-
-nav a {
+  }
+  
+  nav a {
     text-decoration: none;
-}
-
-/* РАЗМЕТКА */
-.mc h1, .mc h2, .mc h3, .mc h4, .mc h5 {
+  }
+  
+  .mc h1,
+  .mc h2,
+  .mc h3,
+  .mc h4,
+  .mc h5 {
     color: #fff;
-    text-align: left!important;
-}
-
-.mc a {
+    text-align: left !important;
+  }
+  
+  .mc a {
     color: #fff;
     font-weight: 400;
-    text-align: left!important;
-}
-
-.mc a:hover {
+    text-align: left !important;
+  }
+  
+  .mc a:hover {
     text-decoration: underline;
-}
-
-.mc code {
+  }
+  
+  .mc code {
     color: #fff;
     background-color: #0d0e13;
     border-radius: 0.1rem;
-}
-
-.mc pre {
+  }
+  
+  .mc pre {
     background-color: #0d0e13;
-}
-
-.mc table {
+  }
+  
+  .mc table {
     display: block;
     overflow-x: auto;
     width: 100%;
@@ -87,16 +89,11 @@ nav a {
     border-collapse: collapse;
     white-space: nowrap;
     margin-bottom: 15px;
-}
-
-.mc table * {
-
-}
-
-.mc table td, table th {
+  }
+  
+  .mc table td,
+  table th {
     padding: 15px;
     border-bottom: 1px solid #d6d6d6;
-}
-
-
-img[alt=play_button_exp] { width: 120px; }
+  }
+  
