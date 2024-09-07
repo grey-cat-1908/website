@@ -30,6 +30,12 @@ The build script has some issues with indentation and code beautification. I'm t
 
 I'm using [this excellent tool](https://github.com/wilsonzlin/minify-html) to minify rendered HTML.
 
+## About Linguist settings
+
+Markdown, by default, is not marked in the repository stats in GitHub as a language used in the project. I've set special settings in `.gitattributes` to show it. 
+
+I want to show that most of the work is done by a simple build script, and the content can be edited easily. Even with this simple approach, everything can function fully.
+
 ## A little historical note
 
 Previously, I didn't want to simplify the site that much, and there are a lot more pages and material here. You can see the old version [here](https://41ecb9be.arbuzicu.pages.dev/).
