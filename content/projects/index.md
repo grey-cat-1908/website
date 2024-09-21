@@ -1,6 +1,6 @@
 ## Projects
 
-This list may not be accurate. You can find more complete list of my projects on [GitHub](https://github.com/grey-cat-1908/).
+This list may not be accurate. You can find more complete list of my projects on [GitHub](https://github.com/grey-cat-1908/) and [my Forgejo instance](https://code.mrkrk.me/).
 
 ### For people
 
