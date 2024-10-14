@@ -20,6 +20,8 @@ This list may not be accurate. You can find more complete list of my projects on
 
 * [TODAY](https://today.mrkrk.me/) - Shows color and emoji of today.
 
+* [TODAY: Strange Image](https://today.mrkrk.me/image/) - Shows image of today.
+
 * [Elastic Collisions Simulator](https://mrkrk.me/blog/1d-collisions/) - Simple 1D elastic collisions simulator.
 
 ### Archived
