@@ -62,9 +62,11 @@ def generate_html_content(directory, filename, is_blog=False):
     meta_data = parse_meta(meta)
 
     if is_blog:
-        return blog_template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
-        .replace("{{%TITLE%}}", meta.get("title", ""))
-        .replace("{{%META%}}", meta_data)
+        return (
+            blog_template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
+            .replace("{{%TITLE%}}", meta.get("title", ""))
+            .replace("{{%META%}}", meta_data)
+        )
     else:
         return minify_html.minify(
             template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
