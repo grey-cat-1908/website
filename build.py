@@ -61,15 +61,18 @@ def generate_html_content(directory, filename, is_blog=False):
 
     meta_data = parse_meta(meta)
 
-    template_to_use = blog_template_text if is_blog else template_text
-
-    return minify_html.minify(
-        template_to_use.replace("{{%CONTENT%}}", markdown_renderer(md_text))
+    if is_blog:
+        return blog_template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
         .replace("{{%TITLE%}}", meta.get("title", ""))
-        .replace("{{%META%}}", meta_data),
-        minify_js=True,
-        remove_processing_instructions=True,
-    )
+        .replace("{{%META%}}", meta_data)
+    else:
+        return minify_html.minify(
+            template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
+            .replace("{{%TITLE%}}", meta.get("title", ""))
+            .replace("{{%META%}}", meta_data),
+            minify_js=True,
+            remove_processing_instructions=True,
+        )
 
 
 def copy_static_files(static_dir, build_dir="build"):
