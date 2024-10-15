@@ -18,9 +18,9 @@ This list may not be accurate. You can find more complete list of my projects on
 
 ### JFF / Experiments
 
-* [TODAY](https://today.mrkrk.me/) - Shows color and emoji of today.
+* [TODAY](https://today.mrkrk.me/) - Shows the color and emoji of the day.
 
-* [TODAY: Strange Image](https://today.mrkrk.me/image/) - Shows image of today.
+* [TODAY: Pixel Art](https://today.mrkrk.me/art/) - Shows the pixel art of the day.
 
 * [Elastic Collisions Simulator](https://mrkrk.me/blog/1d-collisions/) - Simple 1D elastic collisions simulator.
 
