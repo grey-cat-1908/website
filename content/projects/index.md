@@ -22,6 +22,8 @@ This list may not be accurate. You can find more complete list of my projects on
 
 * [TODAY: Pixel Art](https://today.mrkrk.me/art/) - Shows the pixel art of the day.
 
+* [TODAY: Region](https://today.mrkrk.me/region/) - Shows region of the day (on Yandex Map).
+
 * [Elastic Collisions Simulator](https://mrkrk.me/blog/1d-collisions/) - Simple 1D elastic collisions simulator.
 
 ### Archived
