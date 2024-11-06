@@ -23,13 +23,16 @@ markdown_renderer = mistune.create_markdown(
 shutil.rmtree("build", ignore_errors=True)
 os.makedirs("build")
 
-with open("template.html", "r") as template_file:
+with open("templates/general.html", "r") as template_file:
     template_text = template_file.read()
 
-with open("blog_template.html", "r") as blog_template_file:
+with open("templates/blog.html", "r") as blog_template_file:
     blog_template_text = blog_template_file.read()
 
-with open("meta.json", "r") as meta_file:
+with open("templates/gallery.html", "r") as gallery_template_file:
+    gallery_template_text = gallery_template_file.read()
+
+with open("templates/meta.json", "r") as meta_file:
     base_meta = json.load(meta_file)
 
 
@@ -46,7 +49,7 @@ def parse_meta(meta_data):
     return "".join(meta_tags)
 
 
-def generate_html_content(directory, filename, is_blog=False):
+def generate_html_content(directory, filename, status=0):
     """Generate HTML content from a markdown file and metadata."""
     file_path = os.path.join(directory, filename)
 
@@ -61,9 +64,22 @@ def generate_html_content(directory, filename, is_blog=False):
 
     meta_data = parse_meta(meta)
 
-    if is_blog:
+    if status == 1:
         return (
             blog_template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
+            .replace("{{%TITLE%}}", meta.get("title", ""))
+            .replace("{{%META%}}", meta_data)
+        )
+    elif status == 2:
+        gallery_path = os.path.join(directory, "gallery.data")
+        gallery = "[]"
+        if os.path.exists(gallery_path):
+            with open(gallery_path, "r") as gallery_file:
+                gallery = gallery_file.read()
+
+        return (
+            gallery_template_text.replace("{{%CONTENT%}}", markdown_renderer(md_text))
+            .replace("{{%GALLERY%}}", gallery)
             .replace("{{%TITLE%}}", meta.get("title", ""))
             .replace("{{%META%}}", meta_data)
         )
@@ -100,13 +116,19 @@ def process_content_directory(source_dir, target_dir):
             process_content_directory(source_path, target_path)
         else:
             if filename.endswith(".md"):
-                is_blog = "blog" in os.path.relpath(source_path, start="content").split(
+                par = os.path.relpath(source_path, start="content").split(
                     os.sep
                 )
+                status = 0
+
+                if "blog" in par:
+                    status = 1
+                if "gallery" in par and par[-2] != "gallery":
+                    status = 2
 
                 html_filename = os.path.splitext(filename)[0] + ".html"
                 output_file = os.path.join(target_dir, html_filename)
-                content = generate_html_content(source_dir, filename, is_blog=is_blog)
+                content = generate_html_content(source_dir, filename, status=status)
 
                 with open(output_file, "w") as file:
                     file.write(content)
