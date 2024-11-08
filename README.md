@@ -42,3 +42,22 @@ I want to show that most of the work is done by a simple build script, and the c
 Previously, I didn't want to simplify the site that much, and there are a lot more pages and material here. You can see the old version [here](https://41ecb9be.arbuzicu.pages.dev/).
 
 P.S. `*.pages.dev` might not work for you. :/
+
+- - - - -
+
+## Launching your own website
+
+If you wish to run your website using this project, you may do so under the following conditions to ensure compliance:
+
+1. **Repository Requirements**: Your repository must either be a fork of this one or include a clear link to this repository.
+2. **Public Access**: Your repository must be publicly accessible.
+3. **Credit Attribution**: On the website, please include a visible acknowledgment stating that the website is based on this project, with a link to this repository (and, optionally, a link to my website).
+4. **License Key Update**: Be sure to replace the `licenseKey` in `templates/gallery.html` if you are running your own gallery.
+
+Before launching your site, I would appreciate it if you could notify me via email at <mail@mrkrk.me>. Thank you for your cooperation.
+
+Once examples of fair use of this project appear, links to them will be added here.
+
+## License
+
+Distributed under the terms of the GNU AGPLv3 License.
