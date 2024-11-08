@@ -14,6 +14,7 @@ At the moment, the site is hosted on CloudFlare Pages, but once GitVerse Pages i
 
 - [/](https://mrkrk.me/) - Main page
 - [/projects](https://mrkrk.me/projects) - List of projects
+- [/gallery](https://mrkrk.me/gallery) - My photos gallery
 - [/blog](https://mrkrk.me/blog) - Old blog posts
 
 **NOTE:** After deleting my Telegram channel, I wanted to delete all my blog posts. However, I decided not to delete the publications from this site, so the page is just hidden, but you can still access it. 

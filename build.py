@@ -116,9 +116,7 @@ def process_content_directory(source_dir, target_dir):
             process_content_directory(source_path, target_path)
         else:
             if filename.endswith(".md"):
-                par = os.path.relpath(source_path, start="content").split(
-                    os.sep
-                )
+                par = os.path.relpath(source_path, start="content").split(os.sep)
                 status = 0
 
                 if "blog" in par:

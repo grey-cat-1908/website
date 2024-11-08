@@ -10,12 +10,32 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lightgallery.min.css" integrity="sha512-F2E+YYE1gkt0T5TVajAslgDfTEUQKtlu4ralVq78ViNxhKXQLrgQLLie8u1tVdG2vWnB3ute4hcdbiBtvJQh0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lg-zoom.min.css" integrity="sha512-vIrTyLijDDcUJrQGs1jduUCSVa3+A2DaWpVfNyj4lmXkqURVQJ8LL62nebC388QV3P4yFBSt/ViDX8LRW0U6uw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+    <style>
+      #gallery {
+        padding: 20px 60px;
+        border-radius: 10px;
+        background: none;
+        color: white;
+        border-color: white;
+        border: dashed;
+        width: 100%;
+        font-weight: bold;
+        font-size: 1.03em;
+        margin-top: 0.5rem;
+      }
+
+      #gallery:hover {
+          transform: translateY(-2px);
+      }
+    </style>
   </head>
   <body>
     <nav>
       <b>mrkrk</b>
       <a href="/">Home</a>
       <a href="/projects">Projects</a>
+      <a href="/gallery">Gallery</a>
     </nav>
     <main class="mc">
       {{%CONTENT%}}
@@ -29,6 +49,7 @@
         licenseKey: "878B9FB0-9D9145BB-819AB58C-184A267D",
         download: false,
         dynamic: true,
+        closeOnTap: false,
         plugins: [lgZoom],
         dynamicEl: {{%GALLERY%}}
       });
