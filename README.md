@@ -54,6 +54,8 @@ If you wish to run your website using this project, you may do so under the foll
 3. **Credit Attribution**: On the website, please include a visible acknowledgment stating that the website is based on this project, with a link to this repository (and, optionally, a link to my website).
 4. **License Key Update**: Be sure to replace the `licenseKey` in `templates/gallery.html` if you are running your own gallery.
 
+Additionally, I prefer not to see many websites looking identical, so I would be grateful if you develop your own unique styles for your website.
+
 Before launching your site, I would appreciate it if you could notify me via email at <mail@mrkrk.me>. Thank you for your cooperation.
 
 Once examples of fair use of this project appear, links to them will be added here.
