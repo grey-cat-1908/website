@@ -14,11 +14,7 @@
   		{
       src: "https://cdn.mrkrk.me/img/guangzhou/img4.jpg",
       subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on January 06, 2025</p>`,
-    },		
-  		{
-      src: "https://cdn.mrkrk.me/img/guangzhou/img5.jpg",
-      subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on January 06, 2025</p>`,
-    },		
+    },				
   		{
       src: "https://cdn.mrkrk.me/img/guangzhou/img6.jpg",
       subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on January 06, 2025</p>`,
