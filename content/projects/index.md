@@ -4,7 +4,7 @@ This list may not be accurate. You can find more complete list of my projects on
 
 ### For people
 
-* [PreferΩ](https://prefero.mrkrk.me/) - Service to search for available preferences for winners and prize-winners of Russian school Olympiads.
+* [PreferΩ](https://prefero.mrkrk.me/) - Service to search for available preferences for winners and prize-winners of russian school students olympiads.
 
 * [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper.
   
