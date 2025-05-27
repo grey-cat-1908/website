@@ -5,8 +5,6 @@ This list may not be accurate. You can find more complete list of my projects on
 ### For people
 
 * [PreferΩ](https://prefero.mrkrk.me/) - Service to search for available preferences for winners and prize-winners of russian school students olympiads.
-
-* [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper.
   
 * [boticordpy](https://github.com/boticord/boticordpy) - BotiCord API Python wrapper.
 
@@ -31,6 +29,8 @@ This list may not be accurate. You can find more complete list of my projects on
 ### Archived
 
 * [The Arbuz Journal](https://mrkrk.me/blog) - My blog journal on this website.
+
+* [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper.
 
 * [KerdokuBot](https://kerdoku.top/) - Multifunctional Discord Bot.
 
