@@ -40,7 +40,15 @@
       subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on June 14, 2025</p>`,
     },
     {
+      src: "https://cdn.mrkrk.me/img/spb/img11.jpg",
+      subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on June 14, 2025</p>`,
+    },
+    {
       src: "https://cdn.mrkrk.me/img/spb/img12.jpg",
+      subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on June 14, 2025</p>`,
+    },
+    {
+      src: "https://cdn.mrkrk.me/img/spb/img13.jpg",
       subHtml: `<h4>Photo by <a href="https://mrkrk.me/">Viktor K.</a></h4><p>Published on June 14, 2025</p>`,
     },
     {
