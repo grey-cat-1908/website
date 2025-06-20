@@ -10,7 +10,7 @@ This is the main page of my gallery. Here you can access all the albums of photo
 
 - [Hong Kong 🇭🇰](https://mrkrk.me/gallery/hong-kong)
   
-- [Huanming, Moscow, Russia 🇷🇺](https://mrkrk.me/gallery/vdnh)
+- [Huanming, Moscow, Russia 🇷🇺](https://mrkrk.me/gallery/huanming)
 
 - [Macao 🇲🇴](https://mrkrk.me/gallery/macao)
   
