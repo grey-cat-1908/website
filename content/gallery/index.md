@@ -9,8 +9,6 @@ This is the main page of my gallery. Here you can access all the albums of photo
 - [Guangzhou, China 🇨🇳](https://mrkrk.me/gallery/guangzhou)
 
 - [Hong Kong 🇭🇰](https://mrkrk.me/gallery/hong-kong)
-  
-- [Huaming, Moscow, Russia 🇷🇺](https://mrkrk.me/gallery/huaming)
 
 - [Macao 🇲🇴](https://mrkrk.me/gallery/macao)
   
