@@ -192,9 +192,9 @@ You can try the simulator [here](https://od-collisions.mrkrk.me/).
 
 ## Notes
 
-* If you decide to use this project as the basis of your project, it would be advisable to [contact me](mailto:@mail@mrkrk.me) first.
+* If you decide to use this project as the basis of your project, it would be advisable to [contact me](mailto:mail@mrkrk.me) first.
 
-* If you have any interesting projects that I could be involved in, or if you would like to contact me, you can do so [here](mailto:@mail@mrkrk.me).
+* If you have any interesting projects that I could be involved in, or if you would like to contact me, you can do so [here](mailto:mail@mrkrk.me).
 
 * You can find the project files in the [repository on Github](https://github.com/grey-cat-1908/collisions-fool-)
 

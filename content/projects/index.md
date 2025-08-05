@@ -1,6 +1,6 @@
 ## Projects
 
-This list may not be accurate. You can find more complete list of my projects on [GitHub](https://github.com/grey-cat-1908/) and [my Forgejo instance](https://code.mrkrk.me/).
+This list may not be accurate. You can find more complete list of my projects on [GitHub](https://github.com/grey-cat-1908/).
 
 ### For people
 
@@ -15,6 +15,8 @@ This list may not be accurate. You can find more complete list of my projects on
 * [This website](https://github.com/grey-cat-1908/website/) and a simple build script.
 
 * [Line Metro Map Editor](https://github.com/grey-cat-1908/metro) - Simple web application for creating line metro maps.
+
+* [hi.mrkrk.me](https://hi.mrkrk.me/) - A website less than 1 kB in size with all important links
 
 ### JFF / Experiments
 

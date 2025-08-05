@@ -4,16 +4,16 @@ This is the main page of my gallery. Here you can access all the albums of photo
 
 ## List of albums:
 
-- [Doha, Qatar 🇶🇦](https://mrkrk.me/gallery/qatar)
+- [Doha 🇶🇦](https://mrkrk.me/gallery/qatar)
   
-- [Guangzhou, China 🇨🇳](https://mrkrk.me/gallery/guangzhou)
+- [Guangzhou 🇨🇳](https://mrkrk.me/gallery/guangzhou)
 
 - [Hong Kong 🇭🇰](https://mrkrk.me/gallery/hong-kong)
 
 - [Macao 🇲🇴](https://mrkrk.me/gallery/macao)
   
-- [Saint Petersburg, Russia 🇷🇺](https://mrkrk.me/gallery/spb)
+- [Saint Petersburg 🇷🇺](https://mrkrk.me/gallery/spb)
 
-- [Shenzhen, China 🇨🇳](https://mrkrk.me/gallery/shenzhen)
+- [Shenzhen 🇨🇳](https://mrkrk.me/gallery/shenzhen)
 
-- [VDNH, Moscow, Russia 🇷🇺](https://mrkrk.me/gallery/vdnh)  
+- [VDNH, Moscow 🇷🇺](https://mrkrk.me/gallery/vdnh)  
