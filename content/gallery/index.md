@@ -15,5 +15,3 @@ This is the main page of my gallery. Here you can access all the albums of photo
 - [Saint Petersburg 🇷🇺](https://mrkrk.me/gallery/spb)
 
 - [Shenzhen 🇨🇳](https://mrkrk.me/gallery/shenzhen)
-
-- [VDNH, Moscow 🇷🇺](https://mrkrk.me/gallery/vdnh)  
