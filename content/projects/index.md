@@ -32,9 +32,9 @@ This list may not be accurate. You can find more accurate list of my projects on
 
 * [Melisa](https://github.com/MelisaDev/melisa) - Discord API Python wrapper;
 
-* [KerdokuBot](https://kerdoku.top/) - Multifunctional Discord Bot;
+* [KerdokuBot](https://web.archive.org/web/20230828074907/https://kerdoku.top/) - Multifunctional Discord Bot;
 
-* [LastArbuz](https://lastarbuz.lol/) - Minecraft SMP;
+* [LastArbuz](https://web.archive.org/web/20230723055815/https://lastarbuz.lol/) - Minecraft SMP;
   
 * [BotiCord](https://github.com/boticord) SDK: 
     
