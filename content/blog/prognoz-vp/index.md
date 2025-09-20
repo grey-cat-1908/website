@@ -83,7 +83,7 @@
 
 ### 3. Прогноз
 
-![таблица](https://cdn.arbuz.icu/img/forecast-vp/prognoz.png)
+![таблица](https://cdn.mrkrk.me/img/forecast-vp/prognoz.png)
 
 ## Оценка качества решения (точности прогнозов)
 
@@ -91,7 +91,7 @@
 
 ### Официальные граничные баллы
 
-![таблица2](https://cdn.arbuz.icu/img/forecast-vp/official.jpg)
+![таблица2](https://cdn.mrkrk.me/img/forecast-vp/official.jpg)
 
 ### Среднее отклонение
 
