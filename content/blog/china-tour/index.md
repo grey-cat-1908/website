@@ -7,33 +7,33 @@ I travelled to Beijing in late 2023. It's worth noting that Beijing airport is v
 
 Interestingly, the development on the outskirts of Beijing is reminiscent of Soviet architecture, but with taller buildings. The central area of Beijing is characterised by European-style architecture, but also reflects local culture. 
 
-![Beijing](https://cdn.arbuz.icu/img/china-tour/bj_street01.jpg)
+![Beijing](https://cdn.mrkrk.me/img/china-tour/bj_street01.jpg)
 
 The climate in Beijing is terrible, with high humidity levels leading to cold winters and stifling summers. Additionally, the air quality is heavily impacted by pollution. It is said that winning a car licence plate (blue) in Beijing is nearly impossible, according to locals. It is possible to obtain green licence plates for electric cars in Beijing, despite the city not being as wealthy as many other Chinese cities. The northern regions of China are generally considered to be poorer than the southern regions. Property prices are high but average wages remain low. Beijing boasts numerous historical sights. Regrettably, I cannot provide pictures of them as they are of poor quality. Therefore, I will not describe them either.
 
 One of the most fascinating attractions is the Great Wall of China. I believe the view would be more pleasant during a different season.
 
-![Mountains landscape](https://cdn.arbuz.icu/img/china-tour/bj_mount02.jpg)
+![Mountains landscape](https://cdn.mrkrk.me/img/china-tour/bj_mount02.jpg)
 
 Afterwards, I took the train to Shanghai. Chinese train stations are impressive.   
 
 The train from Beijing to Shanghai averages about 345 kilometres per hour.
 
-![Shanghai Night](https://cdn.arbuz.icu/img/china-tour/sh_night01.jpg)
+![Shanghai Night](https://cdn.mrkrk.me/img/china-tour/sh_night01.jpg)
 
 Upon arrival in Shanghai, I tried сandied hawberries, which were certainly very tasty. Shanghai is undoubtedly wealthier than Beijing. I enjoyed the stunning beauty of Shanghai, but I found the air quality lacking. The already stunning views are enhanced by the city's location on a river. Shanghai is primarily a business hub, characterized by towering skyscrapers. In fact, it is home to one of the world's tallest buildings, currently ranked third in height (previously second).
 
-![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_b01.jpg)
+![Shanghai](https://cdn.mrkrk.me/img/china-tour/sh_b01.jpg)
 
-![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_most02.jpg)
+![Shanghai](https://cdn.mrkrk.me/img/china-tour/sh_most02.jpg)
 
-![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_most03.jpg)
+![Shanghai](https://cdn.mrkrk.me/img/china-tour/sh_most03.jpg)
 
-![Shanghai](https://cdn.arbuz.icu/img/china-tour/sh_nb01.jpg)
+![Shanghai](https://cdn.mrkrk.me/img/china-tour/sh_nb01.jpg)
 
 I visited the zoo and was amazed by the variety of animals. The zoo is quite expansive. Panda!!!
 
-![Panda](https://cdn.arbuz.icu/img/china-tour/panda01.jpg)
+![Panda](https://cdn.mrkrk.me/img/china-tour/panda01.jpg)
 
 During my trip to Shanghai, I had several tasks to complete. Although I won't go into detail about them. Instead, I will share my opinions and facts about China.
 
